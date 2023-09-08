@@ -1,0 +1,111 @@
+Script started on Fri Sep  8 11:45:08 2023
+cat: .zshrc: No such file or directory
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? 
+compinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hsscrui  ipt[?2004l
+Script started, output file is typescript
+export MAVEN_HOME=$HOME/apache-maven-3.8.6
+export PATH=$MAVEN_HOME/bin:$PATH
+
+cat .zshrc
+cd $HOME
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? ncompinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004heecho 3 2 "hello"[?2004l
+hello
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...     466 completed.
+
+Script done, output file is typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hooso  lls[?2004l
+ALGORITMIT		OTON KANSIO		UUSIVT2
+Applications		Othello			UUSIVT3
+Creative Cloud Files	Perinnonjako		UUSIVT3.zip
+Desktop			Pictures		UUSIVT4
+Documents		Postman			UUSIVT5
+Downloads		Public			UUSIVT5.zip
+FullStackNotes		RASKAUS			UUSIVT6
+FullStack_kurssi	TIEA2120		äitin jutut
+HÄÄT2020		TIEA2120_vt2		install_nvm.sh
+LAPY			TIEA2120_vt3		kayttojarjest_23
+Library			TIEA2120_vt4		newDayCareProgram
+Movies			TIEA2120_vt5		paivakotiohjelma
+Music			TIEA2120_vt6		saarskxz_ajastukset
+Mytemp			TYÖJUTUT		typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hllsl  ccd ty  c  sscript[?2004l
+Script started, output file is typescript
+Restored session: Pe  8 Syy 2023 11:46:13 EEST
+export MAVEN_HOME=$HOME/apache-maven-3.8.6
+export PATH=$MAVEN_HOME/bin:$PATH
+
+cat .zshrc
+cd $HOME
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? ncompinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccoc  ddocker container run -ti  it ubuntu bash[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K445a6a12be2b: Pulling fs layer [1B[1A[2K445a6a12be2b: Downloading  311.3kB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  622.6kB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  1.232MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  2.158MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  3.092MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  4.016MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  4.639MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  5.573MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading   5.88MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  7.428MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  8.362MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  9.296MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  10.23MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  11.15MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  11.77MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  12.71MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  13.33MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  14.25MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  15.17MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading   16.1MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  16.72MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  17.33MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  18.26MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  18.88MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  20.13MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  21.06MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  21.68MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading   22.3MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  22.92MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  23.54MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  24.48MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  25.41MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  26.02MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  26.64MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  27.27MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  27.88MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading   28.5MB/29.54MB[1B[1A[2K445a6a12be2b: Downloading  29.12MB/29.54MB[1B[1A[2K445a6a12be2b: Verifying Checksum [1B[1A[2K445a6a12be2b: Download complete [1B[1A[2K445a6a12be2b: Extracting  327.7kB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  1.966MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  3.604MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  4.915MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  6.226MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  7.537MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  8.192MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  8.847MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  9.503MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  10.16MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  11.47MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  12.78MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  14.42MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  15.73MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  17.37MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  19.01MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  20.97MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  22.94MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting   24.9MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  25.56MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  25.89MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  26.87MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  28.18MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  28.51MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  29.16MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  29.49MB/29.54MB[1B[1A[2K445a6a12be2b: Extracting  29.54MB/29.54MB[1B[1A[2K445a6a12be2b: Pull complete [1BDigest: sha256:aabed3296a3d45cede1dc866a24476c4d7e093aa806263c27ddaadbdce3c1054
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# 
+[?2004l[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# mkdir us  u /usr/src/app
+[?2004l[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# 
+[?2004l[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# ls
+[?2004l[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib32[0m  [01;36mlibx32[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;36mlib64[0m  [01;34mmedia[0m   [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# ls    cd a s lib      cd usr/
+[?2004l[?2004h]0;root@fc270856b31a: /usrroot@fc270856b31a:/usr# ls
+[?2004l[0m[01;34mbin[0m    [01;34minclude[0m  [01;34mlib32[0m  [01;34mlibexec[0m  [01;34mlocal[0m  [01;34mshare[0m
+[01;34mgames[0m  [01;34mlib[0m      [01;34mlib64[0m  [01;34mlibx32[0m   [01;34msbin[0m   [01;34msrc[0m
+[?2004h]0;root@fc270856b31a: /usrroot@fc270856b31a:/usr# cd s
+sbin/  share/ src/   
+]0;root@fc270856b31a: /usrroot@fc270856b31a:/usr# cd src/
+[?2004l[?2004h]0;root@fc270856b31a: /usr/srcroot@fc270856b31a:/usr/src# ls
+[?2004l[0m[01;34mapp[0m
+[?2004h]0;root@fc270856b31a: /usr/srcroot@fc270856b31a:/usr/src# cd app/
+[?2004l[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# ls
+[?2004l[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# mk  touch index.js
+[?2004l[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv typescript[1m [0m[0m           m  lls[?2004l
+ALGORITMIT		OTON KANSIO		UUSIVT2
+Applications		Othello			UUSIVT3
+Creative Cloud Files	Perinnonjako		UUSIVT3.zip
+Desktop			Pictures		UUSIVT4
+Documents		Postman			UUSIVT5
+Downloads		Public			UUSIVT5.zip
+FullStackNotes		RASKAUS			UUSIVT6
+FullStack_kurssi	TIEA2120		äitin jutut
+HÄÄT2020		TIEA2120_vt2		install_nvm.sh
+LAPY			TIEA2120_vt3		kayttojarjest_23
+Library			TIEA2120_vt4		newDayCareProgram
+Movies			TIEA2120_vt5		paivakotiohjelma
+Music			TIEA2120_vt6		saarskxz_ajastukset
+Mytemp			TYÖJUTUT		typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv typescript[1m [0m[0m FullStack_kurssi[1m/[0m[0m/part12-containers-applications[1m/[0m[K[0m/script-answers[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004h
