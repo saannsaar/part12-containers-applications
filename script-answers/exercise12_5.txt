@@ -1,0 +1,4218 @@
+Script started on Fri Sep  8 11:45:08 2023
+cat: .zshrc: No such file or directory
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? 
+compinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hsscrui  ipt[?2004l
+
+Script started, output file is typescript
+export MAVEN_HOME=$HOME/apache-maven-3.8.6
+export PATH=$MAVEN_HOME/bin:$PATH
+
+cat .zshrc
+cd $HOME
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? ncompinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004heecho 3 2 "hello"[?2004l
+
+hello
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...     466 completed.
+
+Script done, output file is typescript
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hooso  lls[?2004l
+
+ALGORITMIT		OTON KANSIO		UUSIVT2
+Applications		Othello			UUSIVT3
+Creative Cloud Files	Perinnonjako		UUSIVT3.zip
+Desktop			Pictures		UUSIVT4
+Documents		Postman			UUSIVT5
+Downloads		Public			UUSIVT5.zip
+FullStackNotes		RASKAUS			UUSIVT6
+FullStack_kurssi	TIEA2120		äitin jutut
+HÄÄT2020		TIEA2120_vt2		install_nvm.sh
+LAPY			TIEA2120_vt3		kayttojarjest_23
+Library			TIEA2120_vt4		newDayCareProgram
+Movies			TIEA2120_vt5		paivakotiohjelma
+Music			TIEA2120_vt6		saarskxz_ajastukset
+Mytemp			TYÖJUTUT		typescript
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hllsl  ccd ty  c  sscript[?2004l
+
+Script started, output file is typescript
+Restored session: Pe  8 Syy 2023 11:46:13 EEST
+export MAVEN_HOME=$HOME/apache-maven-3.8.6
+export PATH=$MAVEN_HOME/bin:$PATH
+
+cat .zshrc
+cd $HOME
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? ncompinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccoc  ddocker container run -ti  it ubuntu bash[?2004l
+
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K
+445a6a12be2b: Pulling fs layer 
+[1B[1A[2K
+445a6a12be2b: Downloading  311.3kB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  622.6kB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  1.232MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  2.158MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  3.092MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  4.016MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  4.639MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  5.573MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading   5.88MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  7.428MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  8.362MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  9.296MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  10.23MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  11.15MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  11.77MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  12.71MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  13.33MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  14.25MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  15.17MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading   16.1MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  16.72MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  17.33MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  18.26MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  18.88MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  20.13MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  21.06MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  21.68MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading   22.3MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  22.92MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  23.54MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  24.48MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  25.41MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  26.02MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  26.64MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  27.27MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  27.88MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading   28.5MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Downloading  29.12MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Verifying Checksum 
+[1B[1A[2K
+445a6a12be2b: Download complete 
+[1B[1A[2K
+445a6a12be2b: Extracting  327.7kB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  1.966MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  3.604MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  4.915MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  6.226MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  7.537MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  8.192MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  8.847MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  9.503MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  10.16MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  11.47MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  12.78MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  14.42MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  15.73MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  17.37MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  19.01MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  20.97MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  22.94MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting   24.9MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  25.56MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  25.89MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  26.87MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  28.18MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  28.51MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  29.16MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  29.49MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Extracting  29.54MB/29.54MB
+[1B[1A[2K
+445a6a12be2b: Pull complete 
+[1BDigest: sha256:aabed3296a3d45cede1dc866a24476c4d7e093aa806263c27ddaadbdce3c1054
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# 
+[?2004l
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# mkdir us  u /usr/src/app
+[?2004l
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# 
+[?2004l
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# ls
+[?2004l
+[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;36mlib32[0m  [01;36mlibx32[0m  [01;34mmnt[0m  [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m  [30;42mtmp[0m  [01;34mvar[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;36mlib64[0m  [01;34mmedia[0m   [01;34mopt[0m  [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# ls    cd a s lib      cd usr/
+[?2004l
+[?2004h]0;root@fc270856b31a: /usrroot@fc270856b31a:/usr# ls
+[?2004l
+[0m[01;34mbin[0m    [01;34minclude[0m  [01;34mlib32[0m  [01;34mlibexec[0m  [01;34mlocal[0m  [01;34mshare[0m
+[01;34mgames[0m  [01;34mlib[0m      [01;34mlib64[0m  [01;34mlibx32[0m   [01;34msbin[0m   [01;34msrc[0m
+[?2004h]0;root@fc270856b31a: /usrroot@fc270856b31a:/usr# cd s
+sbin/  share/ src/   
+]0;root@fc270856b31a: /usrroot@fc270856b31a:/usr# cd src/
+[?2004l
+[?2004h]0;root@fc270856b31a: /usr/srcroot@fc270856b31a:/usr/src# ls
+[?2004l
+[0m[01;34mapp[0m
+[?2004h]0;root@fc270856b31a: /usr/srcroot@fc270856b31a:/usr/src# cd app/
+[?2004l
+[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# ls
+[?2004l
+[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# mk  touch index.js
+[?2004l
+[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# ls
+[?2004l
+index.js
+[?2004h]0;root@fc270856b31a: /usr/src/approot@fc270856b31a:/usr/src/app# exit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is typescript
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv typescript[1m [0m[0m           m  lls[?2004l
+
+ALGORITMIT		OTON KANSIO		UUSIVT2
+Applications		Othello			UUSIVT3
+Creative Cloud Files	Perinnonjako		UUSIVT3.zip
+Desktop			Pictures		UUSIVT4
+Documents		Postman			UUSIVT5
+Downloads		Public			UUSIVT5.zip
+FullStackNotes		RASKAUS			UUSIVT6
+FullStack_kurssi	TIEA2120		äitin jutut
+HÄÄT2020		TIEA2120_vt2		install_nvm.sh
+LAPY			TIEA2120_vt3		kayttojarjest_23
+Library			TIEA2120_vt4		newDayCareProgram
+Movies			TIEA2120_vt5		paivakotiohjelma
+Music			TIEA2120_vt6		saarskxz_ajastukset
+Mytemp			TYÖJUTUT		typescript
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv typescript[1m [0m[0m FullStack_kurssi[1m/[0m[0m/part12-containers-applications[1m/[0m[K[0m/script-answers[1m/[0m[0m [?2004l
+
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004h[7mdocker container run --rm ubuntu ls[27m[35D[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27m-[27mr[27mm[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27ml[27ms[?2004l
+
+bin
+boot
+dev
+etc
+home
+lib
+lib32
+lib64
+libx32
+media
+mnt
+opt
+proc
+root
+run
+sbin
+srv
+sys
+tmp
+usr
+var
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccnc container ls -a[?2004l
+
+zsh: command not found: container
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccontainer ls[?2004l
+
+zsh: command not found: container
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker container ls -a[?2004l
+
+CONTAINER ID   IMAGE         COMMAND    CREATED             STATUS                         PORTS     NAMES
+fc270856b31a   ubuntu        "bash"     9 minutes ago       Exited (0) 4 minutes ago                 reverent_haibt
+b0b5d6b721b1   hello-world   "/hello"   About an hour ago   Exited (0) About an hour ago             angry_cerf
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker start reverent_haibt[?2004l
+
+reverent_haibt
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccoc  ddocker container ls -a[?2004l
+
+CONTAINER ID   IMAGE         COMMAND    CREATED             STATUS                         PORTS     NAMES
+fc270856b31a   ubuntu        "bash"     11 minutes ago      Up 24 seconds                            reverent_haibt
+b0b5d6b721b1   hello-world   "/hello"   About an hour ago   Exited (0) About an hour ago             angry_cerf
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker container ls[?2004l
+
+CONTAINER ID   IMAGE     COMMAND   CREATED          STATUS          PORTS     NAMES
+fc270856b31a   ubuntu    "bash"    11 minutes ago   Up 46 seconds             reverent_haibt
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker kill reverent_haivt  bt[?2004l
+
+reverent_haibt
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker container ls -a[?2004l
+
+CONTAINER ID   IMAGE         COMMAND    CREATED             STATUS                         PORTS     NAMES
+fc270856b31a   ubuntu        "bash"     11 minutes ago      Exited (137) 5 seconds ago               reverent_haibt
+b0b5d6b721b1   hello-world   "/hello"   About an hour ago   Exited (0) About an hour ago             angry_cerf
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccoc  ddocker start -i reverent_haibt[?2004l
+
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mapt-get update[27mapt-get update
+[?2004l
+
+0% [Working]
+            
+Get:1 http://archive.ubuntu.com/ubuntu jammy InRelease [270 kB]
+
+0% [1 InRelease 1155 B/270 kB 0%] [Connecting to security.ubuntu.com (91.189.91
+                                                                               
+0% [Waiting for headers]
+                        
+Get:2 http://archive.ubuntu.com/ubuntu jammy-updates InRelease [119 kB]
+
+0% [2 InRelease 1155 B/119 kB 1%] [Waiting for headers]
+                                                       
+0% [Waiting for headers]
+                        
+Get:3 http://archive.ubuntu.com/ubuntu jammy-backports InRelease [109 kB]
+
+0% [3 InRelease 1155 B/109 kB 1%] [Waiting for headers]
+                                                       
+0% [Waiting for headers]
+0% [Waiting for headers]
+                        
+Get:4 http://archive.ubuntu.com/ubuntu jammy/restricted amd64 Packages [164 kB]
+
+0% [4 Packages 1239 B/164 kB 1%] [Waiting for headers]
+                                                      
+0% [Waiting for headers]
+0% [4 Packages store 0 B] [Waiting for headers] [Waiting for headers]
+                                                                     
+0% [Waiting for headers] [Waiting for headers]
+0% [Waiting for headers] [Waiting for headers]
+                                              
+Get:5 http://archive.ubuntu.com/ubuntu jammy/universe amd64 Packages [17.5 MB]
+
+0% [5 Packages 54.8 kB/17.5 MB 0%] [Waiting for headers]
+                                                        
+0% [5 Packages 686 kB/17.5 MB 4%] [Waiting for headers]
+0% [5 Packages 2192 kB/17.5 MB 13%] [Waiting for headers]
+0% [5 Packages 6005 kB/17.5 MB 34%] [Waiting for headers]
+0% [5 Packages 9872 kB/17.5 MB 57%] [Waiting for headers]
+0% [5 Packages 13.7 MB/17.5 MB 78%] [Waiting for headers]
+0% [5 Packages 17.3 MB/17.5 MB 99%] [Waiting for headers]
+                                                         
+Get:6 http://archive.ubuntu.com/ubuntu jammy/main amd64 Packages [1792 kB]
+
+                                                         
+0% [6 Packages 133 kB/1792 kB 7%] [Waiting for headers]
+0% [5 Packages store 0 B] [6 Packages 137 kB/1792 kB 8%] [Waiting for headers]
+                                                                              
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+Get:7 http://archive.ubuntu.com/ubuntu jammy/multiverse amd64 Packages [266 kB]
+
+0% [5 Packages store 0 B] [7 Packages 0 B/266 kB 0%] [Waiting for headers]
+                                                                          
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+Get:8 http://archive.ubuntu.com/ubuntu jammy-updates/restricted amd64 Packages [1079 kB]
+
+0% [5 Packages store 0 B] [8 Packages 0 B/1079 kB 0%] [Waiting for headers]
+                                                                           
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+Get:9 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [1230 kB]
+
+0% [5 Packages store 0 B] [9 Packages 0 B/1230 kB 0%] [Waiting for headers]
+                                                                           
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+Get:10 http://archive.ubuntu.com/ubuntu jammy-updates/multiverse amd64 Packages [49.8 kB]
+
+0% [5 Packages store 0 B] [10 Packages 0 B/49.8 kB 0%] [Waiting for headers]
+                                                                            
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+Get:11 http://archive.ubuntu.com/ubuntu jammy-updates/universe amd64 Packages [1254 kB]
+
+0% [5 Packages store 0 B] [11 Packages 0 B/1254 kB 0%] [Waiting for headers]
+                                                                            
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+Get:12 http://archive.ubuntu.com/ubuntu jammy-backports/main amd64 Packages [50.3 kB]
+
+0% [5 Packages store 0 B] [12 Packages 0 B/50.3 kB 0%] [Waiting for headers]
+                                                                            
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+Get:13 http://archive.ubuntu.com/ubuntu jammy-backports/universe amd64 Packages [28.1 kB]
+
+0% [5 Packages store 0 B] [13 Packages 0 B/28.1 kB 0%] [Waiting for headers]
+                                                                            
+0% [5 Packages store 0 B] [Waiting for headers]
+0% [5 Packages store 0 B] [Waiting for headers]
+                                               
+0% [Waiting for headers]
+0% [6 Packages store 0 B] [Waiting for headers]
+                                               
+0% [Waiting for headers]
+0% [7 Packages store 0 B] [Waiting for headers]
+                                               
+0% [Waiting for headers]
+0% [8 Packages store 0 B] [Waiting for headers]
+                                               
+0% [Waiting for headers]
+0% [9 Packages store 0 B] [Waiting for headers]
+0% [Waiting for headers]                                           3915 kB/s 0s
+0% [10 Packages store 0 B] [Waiting for headers]                   3915 kB/s 0s
+0% [Waiting for headers]                                           3915 kB/s 0s
+0% [11 Packages store 0 B] [Waiting for headers]                   3915 kB/s 0s
+0% [Waiting for headers]                                           3915 kB/s 0s
+0% [12 Packages store 0 B] [Waiting for headers]                   3915 kB/s 0s
+0% [Waiting for headers]                                           3915 kB/s 0s
+0% [13 Packages store 0 B] [Waiting for headers]                   3915 kB/s 0s
+0% [Waiting for headers]                                           3915 kB/s 0s
+                                                                               
+Get:14 http://security.ubuntu.com/ubuntu jammy-security InRelease [110 kB]
+
+0% [14 InRelease 14.2 kB/110 kB 13%]                               3915 kB/s 0s
+0% [14 InRelease 108 kB/110 kB 98%]                                3915 kB/s 0s
+0% [Working]                                                       3915 kB/s 0s
+89% [Working]                                                      3915 kB/s 0s
+                                                                               
+Get:15 http://security.ubuntu.com/ubuntu jammy-security/universe amd64 Packages [993 kB]
+
+89% [15 Packages 2687 B/993 kB 0%]                                 3915 kB/s 0s
+91% [15 Packages 802 kB/993 kB 81%]                                3915 kB/s 0s
+92% [Working]                                                      3915 kB/s 0s
+92% [15 Packages store 0 B] [Waiting for headers]                  3915 kB/s 0s
+92% [Waiting for headers]                                          3915 kB/s 0s
+                                                                               
+Get:16 http://security.ubuntu.com/ubuntu jammy-security/restricted amd64 Packages [1059 kB]
+
+92% [16 Packages 0 B/1059 kB 0%]                                   3915 kB/s 0s
+95% [Working]                                                      3915 kB/s 0s
+95% [16 Packages store 0 B]                                        3915 kB/s 0s
+                                                                               
+Get:17 http://security.ubuntu.com/ubuntu jammy-security/main amd64 Packages [962 kB]
+
+95% [16 Packages store 0 B] [17 Packages 0 B/962 kB 0%]            3915 kB/s 0s
+98% [16 Packages store 1773 kB]                                    3915 kB/s 0s
+99% [Working]                                                      3915 kB/s 0s
+                                                                               
+Get:18 http://security.ubuntu.com/ubuntu jammy-security/multiverse amd64 Packages [44.0 kB]
+
+99% [18 Packages 40.0 kB/44.0 kB 91%]                              3915 kB/s 0s
+99% [17 Packages store 0 B] [18 Packages 40.0 kB/44.0 kB 91%]      3915 kB/s 0s
+99% [17 Packages store 0 B]                                        3915 kB/s 0s
+99% [Working]                                                      3915 kB/s 0s
+99% [18 Packages store 0 B]                                        3915 kB/s 0s
+100% [Working]                                                     3915 kB/s 0s
+                                                                               
+Fetched 27.1 MB in 9s (3102 kB/s)
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 40%
+
+Reading package lists... 68%
+
+Reading package lists... 69%
+
+Reading package lists... 69%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mapt-get -y install nano[27mapt-get -y install nano
+[?2004l
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 56%
+
+Reading package lists... 69%
+
+Reading package lists... 69%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... 85%
+
+Building dependency tree... Done
+
+
+Reading state information... 0% 
+
+Reading state information... 0%
+
+Reading state information... Done
+
+Suggested packages:
+  hunspell
+The following NEW packages will be installed:
+  nano
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 280 kB of archives.
+After this operation, 881 kB of additional disk space will be used.
+
+0% [Working]
+            
+Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 nano amd64 6.2-1 [280 kB]
+
+0% [1 nano 0 B/280 kB 0%]
+                         
+100% [Working]
+              
+Fetched 280 kB in 0s (564 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+Selecting previously unselected package nano.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 4395 files and directories currently installed.)
+Preparing to unpack .../archives/nano_6.2-1_amd64.deb ...
+Unpacking nano (6.2-1) ...
+Setting up nano (6.2-1) ...
+update-alternatives: using /bin/nano to provide /usr/bin/editor (editor) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/editor.1.gz because associated file /usr/share/man/man1/nano.1.gz (of link group editor) doesn't exist
+update-alternatives: using /bin/nano to provide /usr/bin/pico (pico) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/pico.1.gz because associated file /usr/share/man/man1/nano.1.gz (of link group pico) doesn't exist
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mnano /usr/src/app/index.js[27mnano /usr/src/app/index.js
+[?2004l
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 6.2 [17b/usr/src/app/index.js [25b [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>[?2004l[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [K^C[?2004l
+[?2004h[?2004l
+
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# script
+[?2004l
+Script started, output log file is 'typescript'.
+# ^[[A^[[A
+sh: 1: [A[A: not found
+# ^[[B^[[B^[[B≈çccex
+sh: 2: [B[B[B≈çccex: not found
+# 
+# nano /	u	  /usr/scrU ( /app/ind dex.js
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;19H(B[0;1m[37m[41m[ Directory '/usr/scr/app' does not exist ][39;49m(B[m[H(B[0;7m  GNU nano 6.2 [17b/usr/scr/app/index.js [25b [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>[?2004l# ^X^C
+# ^X^C
+# exit
+Script done.
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# ^C[?2004l
+[?2004h[?2004l
+
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# kill    docker kk ill           exit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hsscript[?2004l
+
+Script started, output file is typescript
+Restored session: Pe  8 Syy 2023 11:53:31 EEST
+export MAVEN_HOME=$HOME/apache-maven-3.8.6
+export PATH=$MAVEN_HOME/bin:$PATH
+
+cat .zshrc
+cd $HOME
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? dcompinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hoocker    o  ddocker ls -a[?2004l
+
+unknown shorthand flag: 'a' in -a
+See 'docker --help'.
+
+Usage:  docker [OPTIONS] COMMAND
+
+A self-sufficient runtime for containers
+
+Common Commands:
+  run         Create and run a new container from an image
+  exec        Execute a command in a running container
+  ps          List containers
+  build       Build an image from a Dockerfile
+  pull        Download an image from a registry
+  push        Upload an image to a registry
+  images      List images
+  login       Log in to a registry
+  logout      Log out from a registry
+  search      Search Docker Hub for images
+  version     Show the Docker version information
+  info        Display system-wide information
+
+Management Commands:
+  builder     Manage builds
+  buildx*     Docker Buildx (Docker Inc., v0.11.2-desktop.1)
+  compose*    Docker Compose (Docker Inc., v2.20.2-desktop.1)
+  container   Manage containers
+  context     Manage contexts
+  dev*        Docker Dev Environments (Docker Inc., v0.1.0)
+  extension*  Manages Docker extensions (Docker Inc., v0.2.20)
+  image       Manage images
+  init*       Creates Docker-related starter files for your project (Docker Inc., v0.1.0-beta.6)
+  manifest    Manage Docker image manifests and manifest lists
+  network     Manage networks
+  plugin      Manage plugins
+  sbom*       View the packaged-based Software Bill Of Materials (SBOM) for an image (Anchore Inc., 0.6.0)
+  scan*       Docker Scan (Docker Inc., v0.26.0)
+  scout*      Command line tool for Docker Scout (Docker Inc., 0.20.0)
+  system      Manage Docker
+  trust       Manage trust on Docker images
+  volume      Manage volumes
+
+Swarm Commands:
+  swarm       Manage Swarm
+
+Commands:
+  attach      Attach local standard input, output, and error streams to a running container
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  events      Get real time events from the server
+  export      Export a container's filesystem as a tar archive
+  history     Show the history of an image
+  import      Import the contents from a tarball to create a filesystem image
+  inspect     Return low-level information on Docker objects
+  kill        Kill one or more running containers
+  load        Load an image from a tar archive or STDIN
+  logs        Fetch the logs of a container
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  rmi         Remove one or more images
+  save        Save one or more images to a tar archive (streamed to STDOUT by default)
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  wait        Block until one or more containers stop, then print their exit codes
+
+Global Options:
+      --config string      Location of client config files (default
+                           "/Users/sannisaarinen/.docker")
+  -c, --context string     Name of the context to use to connect to the
+                           daemon (overrides DOCKER_HOST env var and
+                           default context set with "docker context use")
+  -D, --debug              Enable debug mode
+  -H, --host list          Daemon socket to connect to
+  -l, --log-level string   Set the logging level ("debug", "info",
+                           "warn", "error", "fatal") (default "info")
+      --tls                Use TLS; implied by --tlsverify
+      --tlscacert string   Trust certs signed only by this CA (default
+                           "/Users/sannisaarinen/.docker/ca.pem")
+      --tlscert string     Path to TLS certificate file (default
+                           "/Users/sannisaarinen/.docker/cert.pem")
+      --tlskey string      Path to TLS key file (default
+                           "/Users/sannisaarinen/.docker/key.pem")
+      --tlsverify          Use TLS and verify the remote
+  -v, --version            Print version information and quit
+
+Run 'docker COMMAND --help' for more information on a command.
+
+For more help on how to use Docker, head to https://docs.docker.com/go/guides/
+
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker container ls -a[?2004l
+
+CONTAINER ID   IMAGE         COMMAND    CREATED             STATUS                         PORTS     NAMES
+fc270856b31a   ubuntu        "bash"     23 minutes ago      Exited (130) 33 seconds ago              reverent_haibt
+b0b5d6b721b1   hello-world   "/hello"   About an hour ago   Exited (0) About an hour ago             angry_cerf
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker startm  -i re verent_haibt[?2004l
+
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mnano /usr/src/app/index.js[27mnano /usr/src/app/index.js
+[?2004l
+[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Reading... ](B[m[22;33H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 6.2 [17b/usr/src/app/index.js [25b [1;79H(B[m
+[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line
+[2d[?12l[?25h[?25l[1;55H(B[0;7m*[79G(B[m[?12l[?25h
+[2dc[?25l[?12l[?25ho[?25l[?12l[?25hn[?25l[?12l[?25hs[?25l[?12l[?25ho[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25h.[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25hg[?25l[?12l[?25h([?25l[?12l[?25h'[?25l[?12l[?25hH[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25h[42m [49m(B[m[?25l
+[22d[K[?12l[?25h[2;19H W[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25hl[?25l[?12l[?25hd[?25l[?12l[?25h[2;13H(B[0;1m[35m'Hello World'[39m(B[m[?25l[?12l[?25h)[?25l[23;14H [6b(B[0;7mM-D(B[m DOS Format      (B[0;7mM-A(B[m Append [9b(B[0;7mM-B(B[m Backup File[K[24;2H(B[0;7mC(B[m Cancel [10b(B[0;7mM-M(B[m Mac Format      (B[0;7mM-P(B[m Prepend [8b(B[0;7m^T(B[m Browse[K
+[22d(B[0;7mFile Name to Write: /usr/src/app/index.js [37b [22;42H(B[m[?12l[?25h[?25l[22;33H[1K (B[0;7m[ Writing... ](B[m[K[1;55H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[23;14H(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut [6b(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24;2H(B[0;7mX(B[m Exit      (B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[?12l[?25h[2;27H[?25l
+[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>[?2004l[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [Kexit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv typescript[1m [0m[0m Fullstack_                    m  llsl  eexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is typescript
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv m  mmv typescript[1m [0m[0m FullStack_kurssi[1m/[0m[0m/part12-containers-applications[1m/[0m[K[0m/script-answers[1m/[0m[0m/e [7mexercise12_3.txt[27m[16D[27me[27mx[27me[27mr[27mc[27mi[27ms[27me[27m1[27m2[27m_[27m3[27m.[27mt[27mx[27mt[?2004l
+
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hsscript[?2004l
+
+Script started, output file is typescript
+Restored session: Pe  8 Syy 2023 12:20:35 EEST
+export MAVEN_HOME=$HOME/apache-maven-3.8.6
+export PATH=$MAVEN_HOME/bin:$PATH
+
+cat .zshrc
+cd $HOME
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? 
+compinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hc ddocker start      l container ps[?2004l
+
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker container          ps[?2004l
+
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hc ddocn ker container ls -a[?2004l
+
+CONTAINER ID   IMAGE         COMMAND    CREATED          STATUS                         PORTS     NAMES
+fc270856b31a   ubuntu        "bash"     35 minutes ago   Exited (0) 30 seconds ago                reverent_haibt
+b0b5d6b721b1   hello-world   "/hello"   2 hours ago      Exited (0) About an hour ago             angry_cerf
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker start -i reverent_haibt[?2004l
+
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# node . -v
+[?2004l
+bash: node: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# brew install node
+[?2004l
+bash: brew: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# ne  instal n  l node
+[?2004l
+install: missing destination file operand after 'node'
+Try 'install --help' for more information.
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# sudo no  install node
+[?2004l
+bash: sudo: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mcurl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget[27m[7m [27m
+[7m -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p'[27m[7m)[27m
+[7m)}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME[27m[7m/[27m
+[7m/Downloads/node-latest.pkg" -target "/"[27m
+
+[A[A[A[Aroot@fc270856b31a:/# curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
+
+[A
+[?2004l
+bash: wget: command not found
+bash: /root/Downloads/node-latest.pkg: No such file or directory
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [K[7mport install nodejs<major version>[27mport install nodejs<major version>
+[?2004l
+bash: syntax error near unexpected token `newline'
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [K[7mport install nodejs<major version>[27m               
+[?2004l
+bash: port: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [Kcru  url
+[?2004l
+bash: curl: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# unzip
+[?2004l
+bash: unzip: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mcurl -fsSL https://fnm.vercel.app/install | bash[27m
+]0;root@fc270856b31a: /root@fc270856b31a:/# curl -fsSL https://fnm.vercel.app/install | bash
+[?2004l
+bash: curl: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [K[7mapt install -y curl[27mapt install -y curl
+[?2004l
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 44%
+
+Reading package lists... 69%
+
+Reading package lists... 69%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 95%
+
+Reading package lists... 95%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... Done
+
+
+Reading state information... 0% 
+
+Reading state information... 0%
+
+Reading state information... Done
+
+The following additional packages will be installed:
+  ca-certificates libbrotli1 libcurl4 libldap-2.5-0 libldap-common
+  libnghttp2-14 libpsl5 librtmp1 libsasl2-2 libsasl2-modules
+  libsasl2-modules-db libssh-4 openssl publicsuffix
+Suggested packages:
+  libsasl2-modules-gssapi-mit | libsasl2-modules-gssapi-heimdal
+  libsasl2-modules-ldap libsasl2-modules-otp libsasl2-modules-sql
+The following NEW packages will be installed:
+  ca-certificates curl libbrotli1 libcurl4 libldap-2.5-0 libldap-common
+  libnghttp2-14 libpsl5 librtmp1 libsasl2-2 libsasl2-modules
+  libsasl2-modules-db libssh-4 openssl publicsuffix
+0 upgraded, 15 newly installed, 0 to remove and 0 not upgraded.
+Need to get 2987 kB of archives.
+After this operation, 7124 kB of additional disk space will be used.
+[33m
+0% [Working][0m
+            
+Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 openssl amd64 3.0.2-0ubuntu1.10 [1183 kB]
+[33m
+0% [1 openssl 1163 B/1183 kB 0%][0m[33m
+9% [1 openssl 340 kB/1183 kB 29%][0m[33m
+18% [1 openssl 686 kB/1183 kB 58%][0m[33m
+                                  
+33% [Working][0m
+             
+Get:2 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 ca-certificates all 20230311ubuntu0.22.04.1 [155 kB]
+[33m
+33% [2 ca-certificates 0 B/155 kB 0%][0m[33m
+                                     
+39% [Working][0m
+             
+Get:3 http://archive.ubuntu.com/ubuntu jammy/main amd64 libnghttp2-14 amd64 1.43.0-1build3 [76.3 kB]
+[33m
+39% [3 libnghttp2-14 14.8 kB/76.3 kB 19%][0m[33m
+                                         
+42% [Working][0m
+             
+Get:4 http://archive.ubuntu.com/ubuntu jammy/main amd64 libpsl5 amd64 0.21.0-1.2build2 [58.4 kB]
+[33m
+42% [4 libpsl5 1579 B/58.4 kB 3%][0m[33m
+                                 
+45% [Waiting for headers][0m
+                         
+Get:5 http://archive.ubuntu.com/ubuntu jammy/main amd64 publicsuffix all 20211207.1025-1 [129 kB]
+[33m
+45% [5 publicsuffix 4257 B/129 kB 3%][0m[33m
+                                     
+50% [Working][0m
+             
+Get:6 http://archive.ubuntu.com/ubuntu jammy/main amd64 libbrotli1 amd64 1.0.9-2build6 [315 kB]
+[33m
+50% [6 libbrotli1 31.6 kB/315 kB 10%][0m[33m
+                                     
+59% [Waiting for headers][0m
+                         
+Get:7 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libsasl2-modules-db amd64 2.1.27+dfsg2-3ubuntu1.2 [20.5 kB]
+[33m
+60% [7 libsasl2-modules-db 20.5 kB/20.5 kB 100%][0m[33m
+                                                
+61% [Waiting for headers][0m
+                         
+Get:8 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libsasl2-2 amd64 2.1.27+dfsg2-3ubuntu1.2 [53.8 kB]
+[33m
+61% [8 libsasl2-2 8192 B/53.8 kB 15%][0m[33m
+                                     
+64% [Waiting for headers][0m
+                         
+Get:9 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libldap-2.5-0 amd64 2.5.16+dfsg-0ubuntu0.22.04.1 [183 kB]
+[33m
+65% [9 libldap-2.5-0 46.0 kB/183 kB 25%][0m[33m
+                                        
+70% [Waiting for headers][0m
+                         
+Get:10 http://archive.ubuntu.com/ubuntu jammy/main amd64 librtmp1 amd64 2.4+20151223.gitfa8646d.1-2build4 [58.2 kB]
+[33m
+71% [10 librtmp1 36.5 kB/58.2 kB 63%][0m[33m
+                                     
+73% [Waiting for headers][0m
+                         
+Get:11 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libssh-4 amd64 0.9.6-2ubuntu0.22.04.1 [185 kB]
+[33m
+74% [11 libssh-4 37.7 kB/185 kB 20%][0m[33m
+                                    
+79% [Working][0m
+             
+Get:12 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libcurl4 amd64 7.81.0-1ubuntu1.13 [290 kB]
+[33m
+80% [12 libcurl4 14.2 kB/290 kB 5%][0m[33m
+                                   
+89% [Waiting for headers][0m
+                         
+Get:13 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 curl amd64 7.81.0-1ubuntu1.13 [194 kB]
+[33m
+89% [13 curl 1165 B/194 kB 1%][0m[33m
+                              
+95% [Working][0m
+             
+Get:14 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libldap-common all 2.5.16+dfsg-0ubuntu0.22.04.1 [15.8 kB]
+[33m
+95% [14 libldap-common 0 B/15.8 kB 0%][0m[33m
+                                      
+97% [Working][0m
+             
+Get:15 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libsasl2-modules amd64 2.1.27+dfsg2-3ubuntu1.2 [68.8 kB]
+[33m
+97% [15 libsasl2-modules 0 B/68.8 kB 0%][0m[33m
+                                        
+100% [Working][0m
+              
+Fetched 2987 kB in 4s (830 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+
+7[0;23r8[1ASelecting previously unselected package openssl.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 4468 files and directories currently installed.)
+Preparing to unpack .../00-openssl_3.0.2-0ubuntu1.10_amd64.deb ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [  2%][49m[39m [..........................................................] 8Unpacking openssl (3.0.2-0ubuntu1.10) ...
+7[24;0f[42m[30mProgress: [  3%][49m[39m [#.........................................................] 8Selecting previously unselected package ca-certificates.
+Preparing to unpack .../01-ca-certificates_20230311ubuntu0.22.04.1_all.deb ...
+7[24;0f[42m[30mProgress: [  5%][49m[39m [##........................................................] 8Unpacking ca-certificates (20230311ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [  7%][49m[39m [###.......................................................] 8Selecting previously unselected package libnghttp2-14:amd64.
+Preparing to unpack .../02-libnghttp2-14_1.43.0-1build3_amd64.deb ...
+7[24;0f[42m[30mProgress: [  8%][49m[39m [####......................................................] 8Unpacking libnghttp2-14:amd64 (1.43.0-1build3) ...
+7[24;0f[42m[30mProgress: [ 10%][49m[39m [#####.....................................................] 8Selecting previously unselected package libpsl5:amd64.
+Preparing to unpack .../03-libpsl5_0.21.0-1.2build2_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 11%][49m[39m [######....................................................] 8Unpacking libpsl5:amd64 (0.21.0-1.2build2) ...
+7[24;0f[42m[30mProgress: [ 13%][49m[39m [#######...................................................] 8Selecting previously unselected package publicsuffix.
+Preparing to unpack .../04-publicsuffix_20211207.1025-1_all.deb ...
+7[24;0f[42m[30mProgress: [ 15%][49m[39m [########..................................................] 8Unpacking publicsuffix (20211207.1025-1) ...
+7[24;0f[42m[30mProgress: [ 16%][49m[39m [#########.................................................] 8Selecting previously unselected package libbrotli1:amd64.
+Preparing to unpack .../05-libbrotli1_1.0.9-2build6_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 18%][49m[39m [##########................................................] 8Unpacking libbrotli1:amd64 (1.0.9-2build6) ...
+7[24;0f[42m[30mProgress: [ 20%][49m[39m [###########...............................................] 8Selecting previously unselected package libsasl2-modules-db:amd64.
+Preparing to unpack .../06-libsasl2-modules-db_2.1.27+dfsg2-3ubuntu1.2_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 21%][49m[39m [############..............................................] 8Unpacking libsasl2-modules-db:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+7[24;0f[42m[30mProgress: [ 23%][49m[39m [#############.............................................] 8Selecting previously unselected package libsasl2-2:amd64.
+Preparing to unpack .../07-libsasl2-2_2.1.27+dfsg2-3ubuntu1.2_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 25%][49m[39m [##############............................................] 8Unpacking libsasl2-2:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+7[24;0f[42m[30mProgress: [ 26%][49m[39m [###############...........................................] 8Selecting previously unselected package libldap-2.5-0:amd64.
+Preparing to unpack .../08-libldap-2.5-0_2.5.16+dfsg-0ubuntu0.22.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 28%][49m[39m [################..........................................] 8Unpacking libldap-2.5-0:amd64 (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 30%][49m[39m [#################.........................................] 8Selecting previously unselected package librtmp1:amd64.
+Preparing to unpack .../09-librtmp1_2.4+20151223.gitfa8646d.1-2build4_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 31%][49m[39m [##################........................................] 8Unpacking librtmp1:amd64 (2.4+20151223.gitfa8646d.1-2build4) ...
+7[24;0f[42m[30mProgress: [ 33%][49m[39m [###################.......................................] 8Selecting previously unselected package libssh-4:amd64.
+Preparing to unpack .../10-libssh-4_0.9.6-2ubuntu0.22.04.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 34%][49m[39m [###################.......................................] 8Unpacking libssh-4:amd64 (0.9.6-2ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 36%][49m[39m [####################......................................] 8Selecting previously unselected package libcurl4:amd64.
+Preparing to unpack .../11-libcurl4_7.81.0-1ubuntu1.13_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 38%][49m[39m [#####################.....................................] 8Unpacking libcurl4:amd64 (7.81.0-1ubuntu1.13) ...
+7[24;0f[42m[30mProgress: [ 39%][49m[39m [######################....................................] 8Selecting previously unselected package curl.
+Preparing to unpack .../12-curl_7.81.0-1ubuntu1.13_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 41%][49m[39m [#######################...................................] 8Unpacking curl (7.81.0-1ubuntu1.13) ...
+7[24;0f[42m[30mProgress: [ 43%][49m[39m [########################..................................] 8Selecting previously unselected package libldap-common.
+Preparing to unpack .../13-libldap-common_2.5.16+dfsg-0ubuntu0.22.04.1_all.deb ...
+7[24;0f[42m[30mProgress: [ 44%][49m[39m [#########################.................................] 8Unpacking libldap-common (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 46%][49m[39m [##########################................................] 8Selecting previously unselected package libsasl2-modules:amd64.
+Preparing to unpack .../14-libsasl2-modules_2.1.27+dfsg2-3ubuntu1.2_amd64.deb ...
+7[24;0f[42m[30mProgress: [ 48%][49m[39m [###########################...............................] 8Unpacking libsasl2-modules:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+7[24;0f[42m[30mProgress: [ 49%][49m[39m [############################..............................] 8Setting up libpsl5:amd64 (0.21.0-1.2build2) ...
+7[24;0f[42m[30mProgress: [ 51%][49m[39m [#############################.............................] 87[24;0f[42m[30mProgress: [ 52%][49m[39m [##############################............................] 8Setting up libbrotli1:amd64 (1.0.9-2build6) ...
+7[24;0f[42m[30mProgress: [ 54%][49m[39m [###############################...........................] 87[24;0f[42m[30mProgress: [ 56%][49m[39m [################################..........................] 8Setting up libsasl2-modules:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+7[24;0f[42m[30mProgress: [ 57%][49m[39m [#################################.........................] 87[24;0f[42m[30mProgress: [ 59%][49m[39m [##################################........................] 8Setting up libnghttp2-14:amd64 (1.43.0-1build3) ...
+7[24;0f[42m[30mProgress: [ 61%][49m[39m [###################################.......................] 87[24;0f[42m[30mProgress: [ 62%][49m[39m [####################################......................] 8Setting up libldap-common (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 64%][49m[39m [#####################################.....................] 87[24;0f[42m[30mProgress: [ 66%][49m[39m [######################################....................] 8Setting up libsasl2-modules-db:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+7[24;0f[42m[30mProgress: [ 67%][49m[39m [######################################....................] 87[24;0f[42m[30mProgress: [ 69%][49m[39m [#######################################...................] 8Setting up librtmp1:amd64 (2.4+20151223.gitfa8646d.1-2build4) ...
+7[24;0f[42m[30mProgress: [ 70%][49m[39m [########################################..................] 87[24;0f[42m[30mProgress: [ 72%][49m[39m [#########################################.................] 8Setting up libsasl2-2:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+7[24;0f[42m[30mProgress: [ 74%][49m[39m [##########################################................] 87[24;0f[42m[30mProgress: [ 75%][49m[39m [###########################################...............] 8Setting up libssh-4:amd64 (0.9.6-2ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 77%][49m[39m [############################################..............] 87[24;0f[42m[30mProgress: [ 79%][49m[39m [#############################################.............] 8Setting up openssl (3.0.2-0ubuntu1.10) ...
+7[24;0f[42m[30mProgress: [ 80%][49m[39m [##############################################............] 87[24;0f[42m[30mProgress: [ 82%][49m[39m [###############################################...........] 8Setting up publicsuffix (20211207.1025-1) ...
+7[24;0f[42m[30mProgress: [ 84%][49m[39m [################################################..........] 87[24;0f[42m[30mProgress: [ 85%][49m[39m [#################################################.........] 8Setting up libldap-2.5-0:amd64 (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 87%][49m[39m [##################################################........] 87[24;0f[42m[30mProgress: [ 89%][49m[39m [###################################################.......] 8Setting up ca-certificates (20230311ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 90%][49m[39m [####################################################......] 8debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 78.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC contains: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.34.0 /usr/local/share/perl/5.34.0 /usr/lib/x86_64-linux-gnu/perl5/5.34 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.34 /usr/share/perl/5.34 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7.)
+debconf: falling back to frontend: Teletype
+Updating certificates in /etc/ssl/certs...
+137 added, 0 removed; done.
+7[24;0f[42m[30mProgress: [ 92%][49m[39m [#####################################################.....] 8Setting up libcurl4:amd64 (7.81.0-1ubuntu1.13) ...
+7[24;0f[42m[30mProgress: [ 92%][49m[39m [#####################################################.....] 8Setting up curl (7.81.0-1ubuntu1.13) ...
+7[24;0f[42m[30mProgress: [ 94%][49m[39m [######################################################....] 87[24;0f[42m[30mProgress: [ 95%][49m[39m [#######################################################...] 8Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Processing triggers for ca-certificates (20230311ubuntu0.22.04.1) ...
+7[24;0f[42m[30mProgress: [ 97%][49m[39m [########################################################..] 8Updating certificates in /etc/ssl/certs...
+0 added, 0 removed; done.
+Running hooks in /etc/ca-certificates/update.d...
+done.
+7[24;0f[42m[30mProgress: [ 98%][49m[39m [#########################################################.] 8
+7[0;24r8[1A[J[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# apt install -y curl    8u  unzip
+[?2004l
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 52%
+
+Reading package lists... 69%
+
+Reading package lists... 69%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... 58%
+
+Building dependency tree... Done
+
+
+Reading state information... 0% 
+
+Reading state information... 6%
+
+Reading state information... Done
+
+Suggested packages:
+  zip
+The following NEW packages will be installed:
+  unzip
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 174 kB of archives.
+After this operation, 385 kB of additional disk space will be used.
+[33m
+0% [Working][0m
+            
+Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 unzip amd64 6.0-26ubuntu3.1 [174 kB]
+[33m
+3% [1 unzip 6957 B/174 kB 4%][0m[33m
+                             
+100% [Working][0m
+              
+Fetched 174 kB in 0s (409 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+
+7[0;23r8[1ASelecting previously unselected package unzip.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 5054 files and directories currently installed.)
+Preparing to unpack .../unzip_6.0-26ubuntu3.1_amd64.deb ...
+7[24;0f[42m[30mProgress: [  0%][49m[39m [..........................................................] 87[24;0f[42m[30mProgress: [ 20%][49m[39m [###########...............................................] 8Unpacking unzip (6.0-26ubuntu3.1) ...
+7[24;0f[42m[30mProgress: [ 40%][49m[39m [#######################...................................] 8Setting up unzip (6.0-26ubuntu3.1) ...
+7[24;0f[42m[30mProgress: [ 60%][49m[39m [##################################........................] 87[24;0f[42m[30mProgress: [ 80%][49m[39m [##############################################............] 8
+7[0;24r8[1A[J[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mcurl -fsSL https://fnm.vercel.app/install | bash[27m
+
+[Aroot@fc270856b31a:/# curl -fsSL https://fnm.vercel.app/install | bash
+
+[A
+[?2004l
+Checking dependencies for the installation script...
+Checking availability of curl... OK!
+Checking availability of unzip... OK!
+Downloading https://github.com/Schniz/fnm/releases/latest/download/fnm-linux.zip...
+#=#=#                                                                         
+##O#-#                                                                        
+##O=#  #                                                                      
+#=#=-#  #                                                                     
+-#O#- #   #                                                                   
+-=#=#   #   #                                                                 
+
+                                                                           0.3%
+######                                                                     9.3%
+#################                                                         24.0%
+##########################                                                37.3%
+###################################                                       49.7%
+###############################################                           65.6%
+###########################################################               82.3%
+#######################################################################   98.7%
+######################################################################## 100.0%
+Installing for Bash. Appending the following to /root/.bashrc:
+
+  # fnm
+  export PATH="/root/.local/share/fnm:$PATH"
+  eval "`fnm env`"
+
+In order to apply the changes, open a new terminal or run the following command:
+
+  source /root/.bashrc
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [Knd ode -v
+[?2004l
+bash: node: command not found
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [7mcurl -sL https://deb.nodesource.com/setup_12.x | bash - [27m
+]0;root@fc270856b31a: /root@fc270856b31a:/# curl -sL https://deb.nodesource.com/setup_12.x | bash - 
+[?2004l
+
+[31m================================================================================(B[m
+[31m================================================================================(B[m
+
+  [1m[33m                            DEPRECATION WARNING                            (B[m
+
+  [1mNode.js 12.x is no longer actively supported!(B[m
+
+  [1mYou will not receive security or critical stability updates(B[m for this version.
+
+  You should migrate to a supported version of Node.js as soon as possible.
+  Use the installation script that corresponds to the version of Node.js you
+  wish to install. e.g.
+
+   * [32mhttps://deb.nodesource.com/setup_16.x — Node.js 16 "Gallium"(B[m
+   * [32mhttps://deb.nodesource.com/setup_18.x — Node.js 18 LTS "Hydrogen"(B[m (recommended)
+   * [32mhttps://deb.nodesource.com/setup_19.x — Node.js 19 "Nineteen"(B[m
+   * [32mhttps://deb.nodesource.com/setup_20.x — Node.js 20 "Iron"(B[m (current)
+
+  Please see [1mhttps://github.com/nodejs/Release(B[m for details about which
+  version may be appropriate for you.
+
+  The [1mNodeSource(B[m Node.js distributions repository contains
+  information both about supported versions of Node.js and supported Linux
+  distributions. To learn more about usage, see the repository:
+    [1mhttps://github.com/nodesource/distributions(B[m
+
+[31m================================================================================(B[m
+[31m================================================================================(B[m
+
+Continuing in 20 seconds ...
+
+
+[1m[31m================================================================================(B[m
+[1m[31m▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓(B[m
+[1m[31m================================================================================(B[m
+
+  [1m[33m                         [4mSCRIPT DEPRECATION WARNING(B[m                    (B[m
+
+  
+  This script, located at [1mhttps://deb.nodesource.com/setup_X(B[m, used to
+  install Node.js is deprecated now and will eventually be made inactive.
+
+  Please visit the NodeSource [1mdistributions(B[m Github and follow the
+  instructions to migrate your repo.
+  [4m[32m[1mhttps://github.com/nodesource/distributions(B[m
+
+  The [1mNodeSource(B[m Node.js Linux distributions GitHub repository contains
+  information about which versions of Node.js and which Linux distributions
+  are supported and how to install it.
+  [4m[32m[1mhttps://github.com/nodesource/distributions(B[m
+
+
+                          [4m[1m[33mSCRIPT DEPRECATION WARNING(B[m
+
+[1m[31m================================================================================(B[m
+[1m[31m▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓(B[m
+[1m[31m================================================================================(B[m
+
+[36m[1mTO AVOID THIS WAIT MIGRATE THE SCRIPT(B[m
+Continuing in 60 seconds (press Ctrl-C to abort) ...
+
+
+^C
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [Kapt-get install nodejs-y   -y
+[?2004l
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 6%
+
+Reading package lists... 6%
+
+Reading package lists... 7%
+
+Reading package lists... 7%
+
+Reading package lists... 55%
+
+Reading package lists... 69%
+
+Reading package lists... 69%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 80%
+
+Reading package lists... 80%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 85%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 86%
+
+Reading package lists... 90%
+
+Reading package lists... 90%
+
+Reading package lists... 94%
+
+Reading package lists... 94%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree... 53%
+
+Building dependency tree... Done
+
+
+Reading state information... 0% 
+
+Reading state information... 6%
+
+Reading state information... Done
+
+The following additional packages will be installed:
+  javascript-common libc-ares2 libicu70 libjs-highlight.js libnode72 libuv1
+  nodejs-doc
+Suggested packages:
+  apache2 | lighttpd | httpd npm
+The following NEW packages will be installed:
+  javascript-common libc-ares2 libicu70 libjs-highlight.js libnode72 libuv1
+  nodejs nodejs-doc
+0 upgraded, 8 newly installed, 0 to remove and 0 not upgraded.
+Need to get 24.4 MB of archives.
+After this operation, 89.5 MB of additional disk space will be used.
+
+0% [Working]
+            
+Get:1 http://archive.ubuntu.com/ubuntu jammy/main amd64 libicu70 amd64 70.1-2 [10.6 MB]
+
+0% [1 libicu70 4049 B/10.6 MB 0%]
+1% [1 libicu70 194 kB/10.6 MB 2%]
+6% [1 libicu70 1784 kB/10.6 MB 17%]
+10% [1 libicu70 2985 kB/10.6 MB 28%]
+11% [1 libicu70 3210 kB/10.6 MB 30%]
+12% [1 libicu70 3782 kB/10.6 MB 36%]
+12% [1 libicu70 3782 kB/10.6 MB 36%]
+23% [1 libicu70 7051 kB/10.6 MB 67%]
+27% [1 libicu70 8391 kB/10.6 MB 79%]
+32% [1 libicu70 9659 kB/10.6 MB 91%]
+                                    
+37% [Working]
+             
+Get:2 http://archive.ubuntu.com/ubuntu jammy/main amd64 libuv1 amd64 1.43.0-1 [93.1 kB]
+
+37% [2 libuv1 12.7 kB/93.1 kB 14%]
+                                  
+40% [Waiting for headers]
+                         
+Get:3 http://archive.ubuntu.com/ubuntu jammy/main amd64 javascript-common all 11+nmu1 [5936 B]
+
+                         
+Get:4 http://archive.ubuntu.com/ubuntu jammy/universe amd64 libjs-highlight.js all 9.18.5+dfsg1-1 [367 kB]
+
+43% [4 libjs-highlight.js 10.1 kB/367 kB 3%]
+                                            
+46% [Working]
+             
+Get:5 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libc-ares2 amd64 1.18.1-1ubuntu0.22.04.2 [45.0 kB]
+
+46% [5 libc-ares2 11.2 kB/45.0 kB 25%]
+                                      
+49% [Waiting for headers]
+                         
+Get:6 http://archive.ubuntu.com/ubuntu jammy/universe amd64 libnode72 amd64 12.22.9~dfsg-1ubuntu3 [10.8 MB]
+
+49% [6 libnode72 8192 B/10.8 MB 0%]
+55% [6 libnode72 1896 kB/10.8 MB 18%]
+61% [6 libnode72 3615 kB/10.8 MB 34%]                              2305 kB/s 4s
+67% [6 libnode72 5389 kB/10.8 MB 50%]                              2305 kB/s 3s
+70% [6 libnode72 6462 kB/10.8 MB 60%]                              2305 kB/s 2s
+73% [6 libnode72 7383 kB/10.8 MB 68%]                              2305 kB/s 2s
+75% [6 libnode72 7875 kB/10.8 MB 73%]                              2305 kB/s 2s
+75% [6 libnode72 7875 kB/10.8 MB 73%]                              2305 kB/s 2s
+75% [6 libnode72 7875 kB/10.8 MB 73%]                              2305 kB/s 2s
+79% [6 libnode72 9210 kB/10.8 MB 85%]                              2305 kB/s 1s
+79% [6 libnode72 9210 kB/10.8 MB 85%]                              2305 kB/s 1s
+82% [6 libnode72 10.0 MB/10.8 MB 93%]                              2305 kB/s 1s
+84% [6 libnode72 10.7 MB/10.8 MB 99%]                              2305 kB/s 1s
+87% [Working]                                                      2305 kB/s 1s
+                                                                               
+Get:7 http://archive.ubuntu.com/ubuntu jammy/universe amd64 nodejs-doc all 12.22.9~dfsg-1ubuntu3 [2409 kB]
+
+87% [7 nodejs-doc 48.2 kB/2409 kB 2%]                              2305 kB/s 1s
+93% [7 nodejs-doc 1786 kB/2409 kB 74%]                             1492 kB/s 0s
+97% [Working]                                                      1492 kB/s 0s
+                                                                               
+Get:8 http://archive.ubuntu.com/ubuntu jammy/universe amd64 nodejs amd64 12.22.9~dfsg-1ubuntu3 [122 kB]
+
+97% [8 nodejs 0 B/122 kB 0%]                                       1492 kB/s 0s
+100% [Working]                                                     1492 kB/s 0s
+                                                                               
+Fetched 24.4 MB in 13s (1932 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+Selecting previously unselected package libicu70:amd64.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 5072 files and directories currently installed.)
+Preparing to unpack .../0-libicu70_70.1-2_amd64.deb ...
+Unpacking libicu70:amd64 (70.1-2) ...
+Selecting previously unselected package libuv1:amd64.
+Preparing to unpack .../1-libuv1_1.43.0-1_amd64.deb ...
+Unpacking libuv1:amd64 (1.43.0-1) ...
+Selecting previously unselected package javascript-common.
+Preparing to unpack .../2-javascript-common_11+nmu1_all.deb ...
+Unpacking javascript-common (11+nmu1) ...
+Selecting previously unselected package libjs-highlight.js.
+Preparing to unpack .../3-libjs-highlight.js_9.18.5+dfsg1-1_all.deb ...
+Unpacking libjs-highlight.js (9.18.5+dfsg1-1) ...
+Selecting previously unselected package libc-ares2:amd64.
+Preparing to unpack .../4-libc-ares2_1.18.1-1ubuntu0.22.04.2_amd64.deb ...
+Unpacking libc-ares2:amd64 (1.18.1-1ubuntu0.22.04.2) ...
+Selecting previously unselected package libnode72:amd64.
+Preparing to unpack .../5-libnode72_12.22.9~dfsg-1ubuntu3_amd64.deb ...
+Unpacking libnode72:amd64 (12.22.9~dfsg-1ubuntu3) ...
+Selecting previously unselected package nodejs-doc.
+Preparing to unpack .../6-nodejs-doc_12.22.9~dfsg-1ubuntu3_all.deb ...
+Unpacking nodejs-doc (12.22.9~dfsg-1ubuntu3) ...
+Selecting previously unselected package nodejs.
+Preparing to unpack .../7-nodejs_12.22.9~dfsg-1ubuntu3_amd64.deb ...
+Unpacking nodejs (12.22.9~dfsg-1ubuntu3) ...
+Setting up javascript-common (11+nmu1) ...
+Setting up libc-ares2:amd64 (1.18.1-1ubuntu0.22.04.2) ...
+Setting up libuv1:amd64 (1.43.0-1) ...
+Setting up libjs-highlight.js (9.18.5+dfsg1-1) ...
+Setting up libicu70:amd64 (70.1-2) ...
+Setting up libnode72:amd64 (12.22.9~dfsg-1ubuntu3) ...
+Setting up nodejs-doc (12.22.9~dfsg-1ubuntu3) ...
+Setting up nodejs (12.22.9~dfsg-1ubuntu3) ...
+update-alternatives: using /usr/bin/nodejs to provide /usr/bin/js (js) in auto mode
+update-alternatives: warning: skip creation of /usr/share/man/man1/js.1.gz because associated file /usr/share/man/man1/nodejs.1.gz (of link group js) doesn't exist
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# node -b
+[?2004l
+node: bad option: -b
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# node -v
+[?2004l
+v12.22.9
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# node /usr/src/app/index.js
+[?2004l
+Hello World
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# [Kexit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done, output file is typescript
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv typescript[1m [0m[0m [?2004l
+
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hmmv typescript[1m [0m[0m FullStack_kurssi[1m/[0m[0m/part12-containers-applications[1m/[0m[K[0m/script-answers[1m/[0m[0m/[7mexercise12_4.txt[27m[16D[27me[27mx[27me[27mr[27mc[27mi[27ms[27me[27m1[27m2[27m_[27m4[27m.[27mt[27mx[27mt[?2004l
+
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004h[7mdocker container ls -a[27m[22D[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27ml[27ms[27m [27m-[27ma[?2004l
+
+CONTAINER ID   IMAGE         COMMAND    CREATED             STATUS                      PORTS     NAMES
+fc270856b31a   ubuntu        "bash"     About an hour ago   Exited (0) 30 seconds ago             reverent_haibt
+b0b5d6b721b1   hello-world   "/hello"   2 hours ago         Exited (0) 2 hours ago                angry_cerf
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker start -i [7mreverent_haibt[27m
+
+[K[A[52C[27mr[27me[27mv[27me[27mr[27me[27mn[27mt[27m_[27mh[27ma[27mi[27mb[27mt[1B
+[K[A[66C[?2004l[1B
+[?2004h]0;root@fc270856b31a: /root@fc270856b31a:/# doc   exit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker reverent        commit c reverent_haibt hello-d node-worl 
+[Kd[?2004l
+
+sha256:a81e98a091825df99e5b29f18cd6a2c1716cdb639f1e15b81c08eab221dbe522
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker imaje ls[?2004l
+
+docker: 'imaje' is not a docker command.
+See 'docker --help'
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker image ls[?2004l
+
+REPOSITORY         TAG       IMAGE ID       CREATED          SIZE
+hello-node-world   latest    a81e98a09182   14 seconds ago   219MB
+ubuntu             latest    c6b84b685f35   3 weeks ago      77.8MB
+hello-world        latest    9c7a54a9a43c   4 months ago     13.3kB
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker run -it hello-node-worls b  d ab  bash[?2004l
+
+[?2004h]0;root@fb328ae59932: /root@fb328ae59932:/# [7mnode /usr/src/app/index.js[27mnode /usr/src/app/index.js
+[?2004l
+Hello World
+[?2004h]0;root@fb328ae59932: /root@fb328ae59932:/# [Kexit
+[?2004l
+exit
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker container ls   rm    ls -a[?2004l
+
+CONTAINER ID   IMAGE              COMMAND    CREATED             STATUS                      PORTS     NAMES
+fb328ae59932   hello-node-world   "bash"     53 seconds ago      Exited (0) 11 seconds ago             sad_ptolemy
+fc270856b31a   ubuntu             "bash"     About an hour ago   Exited (0) 2 minutes ago              reverent_haibt
+b0b5d6b721b1   hello-world        "/hello"   2 hours ago         Exited (0) 2 hours ago                angry_cerf
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hddocker container rm hello-node-wworl    orld[?2004l
+
+Error response from daemon: No such container: hello-node-world
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hn ddocker container rm [7mreverent_haibt[27m[14D[27mr[27me[27mv[27me[27mr[27me[27mn[27mt[27m_[27mh[27ma[27mi[27mb[27mt[?2004l
+
+reverent_haibt
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004h[7m$ docker container run -it --name hello-node[7m [7mnode:16 bash[27m[K[A[23C[27m$[27m [27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27m-[27m-[27mn[27ma[27mm[27me[27m [27mh[27me[27ml[27ml[27mo[27m-[27mn[27mo[27md[27me [27mn[27mo[27md[27me[27m:[27m1[27m6[27m [27mb[27ma[27ms[27mh[?2004l
+
+zsh: command not found: $
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004h[7mdocker container run -it --name hello-node n[7mo[7mde:16 bash[27m[K[A[25C[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27m-[27m-[27mn[27ma[27mm[27me[27m [27mh[27me[27ml[27ml[27mo[27m-[27mn[27mo[27md[27me[27m [27mno[27md[27me[27m:[27m1[27m6[27m [27mb[27ma[27ms[27mh[?2004l
+
+Unable to find image 'node:16' locally
+16: Pulling from library/node
+
+[1A[2K
+311da6c465ea: Pulling fs layer 
+[1B
+[1A[2K
+7e9bf114588c: Pulling fs layer 
+[1B
+[1A[2K
+ffd9397e94b7: Pulling fs layer 
+[1B
+[1A[2K
+513d77925604: Pulling fs layer 
+[1B
+[1A[2K
+ae3b95bbaa61: Pulling fs layer 
+[1B
+[1A[2K
+0e421f66aff4: Pulling fs layer 
+[1B
+[1A[2K
+ca266fd61921: Pulling fs layer 
+[1B
+[1A[2K
+ee7d78be1eb9: Pulling fs layer 
+[1B[5A[2K
+513d77925604: Waiting 
+[5B[4A[2K
+ae3b95bbaa61: Waiting 
+[4B[3A[2K
+0e421f66aff4: Waiting 
+[3B[2A[2K
+ca266fd61921: Waiting 
+[2B[1A[2K
+ee7d78be1eb9: Waiting 
+[1B[7A[2K
+7e9bf114588c: Downloading  176.5kB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  367.9kB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  507.2kB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  727.4kB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  907.6kB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  1.015MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  1.268MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  523.6kB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  1.448MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  1.523MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  1.633MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  2.031MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  1.813MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  2.173MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  2.539MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  1.048MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  2.353MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  3.047MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  2.534MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  2.714MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  3.555MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  1.572MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  2.894MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  4.062MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  3.074MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading   4.57MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  3.259MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  2.096MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  3.439MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  5.078MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  5.593MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  3.799MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  2.621MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading   3.98MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  6.105MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading   4.34MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  7.121MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  7.641MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  3.145MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  4.701MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  8.149MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  8.657MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  5.061MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  9.165MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  3.669MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  9.673MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  5.421MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  10.18MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  5.602MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  5.782MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  10.69MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading   11.2MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  4.194MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading   11.7MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  12.21MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  12.72MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  5.962MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  13.23MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  4.721MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  13.74MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  6.323MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  14.24MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  6.683MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  14.75MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  15.26MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  5.245MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  15.77MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  6.863MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  16.28MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  16.78MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  7.224MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  17.29MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  7.404MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading   5.77MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading   17.8MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  7.584MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  18.31MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  18.82MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  19.32MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  7.764MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  6.294MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  19.83MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  20.34MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Downloading  20.85MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  7.945MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  21.35MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  6.818MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  8.305MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  21.86MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  8.485MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  22.37MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  8.665MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  22.88MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  7.342MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  23.39MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  8.846MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading   23.9MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  9.026MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  7.863MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  9.206MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  24.41MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  9.386MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  8.387MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  9.567MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  24.92MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  8.911MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  9.747MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  25.43MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  9.435MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  9.927MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  25.93MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading   9.96MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  10.29MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  26.44MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  10.47MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  10.48MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  10.65MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  26.95MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  10.83MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  11.01MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  11.01MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  11.19MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  27.46MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  11.53MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  11.37MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  27.97MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  11.73MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  12.06MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  28.47MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  11.91MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  12.58MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  28.98MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  12.09MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading   29.5MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  13.11MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  30.01MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  13.63MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  12.45MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  12.81MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  30.51MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  14.15MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  13.17MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  31.02MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  14.68MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  13.53MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  31.53MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading   15.2MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  13.71MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  13.89MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  32.04MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  14.07MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  15.73MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  14.25MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  32.55MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  16.25MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  14.43MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  33.05MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  16.78MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  33.56MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading   17.3MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  14.61MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Downloading  14.79MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  17.82MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  14.98MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  34.07MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  18.34MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  15.52MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  34.58MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading   15.7MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  18.87MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  16.06MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  35.08MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  19.39MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  16.24MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading   35.6MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  19.92MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  16.42MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  20.45MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading   36.1MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  16.78MB/17.58MB
+[7B[6A[2K
+ffd9397e94b7: Downloading  20.97MB/51.89MB
+[6B[7A[2K
+7e9bf114588c: Downloading  16.96MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  36.61MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading  17.32MB/17.58MB
+[7B[8A[2K
+311da6c465ea: Downloading  37.12MB/50.5MB
+[8B[7A[2K
+7e9bf114588c: Downloading   17.5MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Verifying Checksum 
+[7B[7A[2K
+7e9bf114588c: Download complete 
+[7B[8A[2K
+311da6c465ea: Downloading  37.63MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  539.9kB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  1.068MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  1.609MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  38.14MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading   2.15MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   2.69MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  3.231MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  3.772MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  4.312MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  38.64MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  4.853MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   5.38MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  21.49MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  5.921MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  6.462MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  7.002MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  39.15MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  7.543MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  22.02MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  8.084MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  8.624MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  9.165MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  22.54MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  39.66MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  9.706MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  10.25MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  10.78MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  11.32MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  23.07MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  11.85MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  12.39MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  40.17MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  12.93MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  13.47MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  23.59MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  14.01MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  14.56MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  15.09MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  40.68MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  15.63MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  24.12MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  16.17MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  16.71MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  17.25MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  24.64MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  17.79MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading   41.2MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  18.32MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  18.86MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   19.4MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  25.16MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  19.94MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  20.48MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading   41.7MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  21.02MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  25.69MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  21.56MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   22.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  22.64MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  26.21MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  23.18MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  23.72MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  42.21MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  24.26MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   24.8MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  26.74MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  25.34MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  25.88MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  27.26MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  26.42MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  42.72MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  26.96MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   27.5MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  27.79MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  28.04MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  28.58MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  29.12MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  28.32MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  29.67MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  30.21MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  43.23MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  30.75MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  28.85MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  31.29MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  31.83MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  29.37MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  32.37MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  43.74MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  32.91MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading   29.9MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  33.45MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  33.99MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  30.42MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  34.53MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  44.24MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  35.07MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  30.95MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  35.61MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  36.15MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  31.47MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  44.75MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  36.69MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  37.24MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading     32MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  37.78MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  38.32MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  32.52MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  38.86MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  45.27MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading   39.4MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  33.04MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  40.48MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  41.02MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  45.78MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  33.57MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  41.56MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   42.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  42.64MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading   34.1MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  43.18MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  46.28MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  43.72MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  34.62MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  44.26MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   44.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  45.35MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  35.15MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  45.89MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  46.79MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  46.43MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  46.97MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  35.67MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  47.51MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  48.05MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  48.59MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  36.19MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  49.13MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading   47.3MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  49.67MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  50.21MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  36.72MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  50.75MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  51.29MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  47.81MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  51.83MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  37.25MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  52.37MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  52.91MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  53.45MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  37.77MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Downloading  48.31MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  53.99MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  54.53MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading   38.3MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  55.07MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  55.61MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  56.15MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  48.82MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  38.82MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  56.69MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  57.23MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  39.35MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  57.76MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   58.3MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  49.33MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  58.85MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  39.87MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  59.39MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  59.93MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  60.47MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  49.84MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  61.01MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading   40.4MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  61.55MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  62.09MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  62.63MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  63.17MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  40.92MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  63.71MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Downloading  50.35MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  64.25MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Verifying Checksum 
+[8B[8A[2K
+311da6c465ea: Download complete 
+[8B[8A[2K
+311da6c465ea: Extracting  524.3kB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  64.79MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  1.573MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  65.33MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  41.44MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  2.097MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  65.87MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  66.41MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  3.146MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  66.96MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  41.97MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  4.194MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading   67.5MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  5.243MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  6.816MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  68.04MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  7.864MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  42.49MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  68.58MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  8.389MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  9.437MB/50.5MB
+[8B[4A[2K
+ae3b95bbaa61: Downloading     721B/4.203kB
+[4B[5A[2K
+513d77925604: Downloading  69.12MB/191.9MB
+[5B[4A[2K
+ae3b95bbaa61: Downloading  4.203kB/4.203kB
+[4B[4A[2K
+ae3b95bbaa61: Verifying Checksum 
+[4B[4A[2K
+ae3b95bbaa61: Download complete 
+[4B[8A[2K
+311da6c465ea: Extracting  10.49MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  69.66MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  43.02MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading   70.2MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  11.01MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  70.74MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  12.06MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  13.11MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  71.28MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  14.16MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  43.54MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  71.82MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting   15.2MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  72.36MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  16.25MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading   72.9MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  44.07MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  73.43MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting   17.3MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  73.97MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  17.83MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  74.51MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  18.35MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  44.59MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  18.87MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  75.05MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  20.45MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  75.59MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  22.02MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  76.13MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  45.12MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  23.59MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  25.17MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  76.68MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  25.69MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  77.22MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  45.64MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  77.76MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading   78.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  78.83MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  46.16MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  26.21MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  26.74MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  79.37MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  27.79MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  79.91MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  29.88MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  46.69MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  80.45MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  30.93MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  80.99MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  31.98MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  33.03MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  81.53MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting   34.6MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  47.21MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  35.65MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting   36.7MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  82.07MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  360.4kB/34.79MB
+[3B[8A[2K
+311da6c465ea: Extracting  37.75MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting   38.8MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  39.85MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  47.74MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  83.15MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  720.9kB/34.79MB
+[3B[8A[2K
+311da6c465ea: Extracting  40.37MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  83.69MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  41.42MB/50.5MB
+[8B[3A[2K
+0e421f66aff4: Downloading  1.081MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  84.22MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  41.94MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  48.26MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  42.47MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading   85.3MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  1.437MB/34.79MB
+[3B[8A[2K
+311da6c465ea: Extracting  42.99MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  85.84MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  44.04MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  48.79MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  44.56MB/50.5MB
+[8B[3A[2K
+0e421f66aff4: Downloading  1.797MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  86.38MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  45.61MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  86.92MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  2.158MB/34.79MB
+[3B[8A[2K
+311da6c465ea: Extracting  46.66MB/50.5MB
+[8B[6A[2K
+ffd9397e94b7: Downloading  49.31MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  87.46MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  47.19MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading     88MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  2.518MB/34.79MB
+[3B[8A[2K
+311da6c465ea: Extracting  47.71MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  88.54MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  49.84MB/51.89MB
+[6B[8A[2K
+311da6c465ea: Extracting  48.23MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  89.08MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  2.879MB/34.79MB
+[3B[8A[2K
+311da6c465ea: Extracting  48.76MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  89.62MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  49.28MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  90.16MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  50.36MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  3.239MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading   90.7MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Downloading  50.89MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading    3.6MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  91.23MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading   3.96MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Downloading  51.42MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  4.321MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  91.77MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Verifying Checksum 
+[6B[6A[2K
+ffd9397e94b7: Download complete 
+[6B[3A[2K
+0e421f66aff4: Downloading  4.681MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  92.31MB/191.9MB
+[5B[8A[2K
+311da6c465ea: Extracting  49.81MB/50.5MB
+[8B[8A[2K
+311da6c465ea: Extracting  50.33MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  92.85MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  5.041MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading   93.4MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  5.402MB/34.79MB
+[3B[8A[2K
+311da6c465ea: Extracting   50.5MB/50.5MB
+[8B[5A[2K
+513d77925604: Downloading  93.94MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  94.48MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  5.762MB/34.79MB
+[3B[2A[2K
+ca266fd61921: Downloading  23.27kB/2.273MB
+[2B[5A[2K
+513d77925604: Downloading  95.01MB/191.9MB
+[5B[2A[2K
+ca266fd61921: Downloading  278.5kB/2.273MB
+[2B[3A[2K
+0e421f66aff4: Downloading  6.483MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  95.55MB/191.9MB
+[5B[2A[2K
+ca266fd61921: Downloading  704.5kB/2.273MB
+[2B[8A[2K
+311da6c465ea: Pull complete 
+[8B[2A[2K
+ca266fd61921: Downloading  901.1kB/2.273MB
+[2B[7A[2K
+7e9bf114588c: Extracting  196.6kB/17.58MB
+[7B[3A[2K
+0e421f66aff4: Downloading  6.844MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  96.09MB/191.9MB
+[5B[2A[2K
+ca266fd61921: Downloading  1.322MB/2.273MB
+[2B[7A[2K
+7e9bf114588c: Extracting  393.2kB/17.58MB
+[7B[2A[2K
+ca266fd61921: Downloading  1.388MB/2.273MB
+[2B[7A[2K
+7e9bf114588c: Extracting  1.769MB/17.58MB
+[7B[3A[2K
+0e421f66aff4: Downloading  7.204MB/34.79MB
+[3B[2A[2K
+ca266fd61921: Downloading  1.519MB/2.273MB
+[2B[7A[2K
+7e9bf114588c: Extracting  3.146MB/17.58MB
+[7B[5A[2K
+513d77925604: Downloading  96.64MB/191.9MB
+[5B[2A[2K
+ca266fd61921: Downloading  1.683MB/2.273MB
+[2B[7A[2K
+7e9bf114588c: Extracting  4.719MB/17.58MB
+[7B[3A[2K
+0e421f66aff4: Downloading  7.565MB/34.79MB
+[3B[7A[2K
+7e9bf114588c: Extracting  5.898MB/17.58MB
+[7B[2A[2K
+ca266fd61921: Downloading  1.912MB/2.273MB
+[2B[2A[2K
+ca266fd61921: Downloading  2.174MB/2.273MB
+[2B[5A[2K
+513d77925604: Downloading  97.18MB/191.9MB
+[5B[7A[2K
+7e9bf114588c: Extracting  7.078MB/17.58MB
+[7B[2A[2K
+ca266fd61921: Verifying Checksum 
+[2B[2A[2K
+ca266fd61921: Download complete 
+[2B[3A[2K
+0e421f66aff4: Downloading  7.925MB/34.79MB
+[3B[7A[2K
+7e9bf114588c: Extracting  8.061MB/17.58MB
+[7B[5A[2K
+513d77925604: Downloading  97.71MB/191.9MB
+[5B[7A[2K
+7e9bf114588c: Extracting  9.437MB/17.58MB
+[7B[3A[2K
+0e421f66aff4: Downloading  8.289MB/34.79MB
+[3B[7A[2K
+7e9bf114588c: Extracting  12.39MB/17.58MB
+[7B[5A[2K
+513d77925604: Downloading  98.25MB/191.9MB
+[5B[7A[2K
+7e9bf114588c: Extracting  13.17MB/17.58MB
+[7B[3A[2K
+0e421f66aff4: Downloading  8.649MB/34.79MB
+[3B[7A[2K
+7e9bf114588c: Extracting  14.16MB/17.58MB
+[7B[5A[2K
+513d77925604: Downloading  98.79MB/191.9MB
+[5B[7A[2K
+7e9bf114588c: Extracting  14.94MB/17.58MB
+[7B[3A[2K
+0e421f66aff4: Downloading  9.009MB/34.79MB
+[3B[7A[2K
+7e9bf114588c: Extracting  15.73MB/17.58MB
+[7B[5A[2K
+513d77925604: Downloading  99.33MB/191.9MB
+[5B[7A[2K
+7e9bf114588c: Extracting  16.32MB/17.58MB
+[7B[7A[2K
+7e9bf114588c: Extracting   17.1MB/17.58MB
+[7B[1A[2K
+ee7d78be1eb9: Downloading     450B/450B
+[1B[1A[2K
+ee7d78be1eb9: Verifying Checksum 
+[1B[1A[2K
+ee7d78be1eb9: Download complete 
+[1B[3A[2K
+0e421f66aff4: Downloading   9.37MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  99.87MB/191.9MB
+[5B[7A[2K
+7e9bf114588c: Extracting  17.58MB/17.58MB
+[7B[3A[2K
+0e421f66aff4: Downloading   9.73MB/34.79MB
+[3B[7A[2K
+7e9bf114588c: Pull complete 
+[7B[6A[2K
+ffd9397e94b7: Extracting  524.3kB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  100.4MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  10.09MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  2.097MB/51.89MB
+[6B[6A[2K
+ffd9397e94b7: Extracting   3.67MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  10.45MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading    101MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  5.243MB/51.89MB
+[6B[6A[2K
+ffd9397e94b7: Extracting  6.291MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  10.81MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  7.864MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  101.5MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  11.17MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  9.961MB/51.89MB
+[6B[6A[2K
+ffd9397e94b7: Extracting  12.06MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading    102MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  11.53MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  14.16MB/51.89MB
+[6B[6A[2K
+ffd9397e94b7: Extracting   15.2MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  11.89MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  102.6MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting   17.3MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  12.25MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  103.1MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  18.87MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  12.61MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting   19.4MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  103.7MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  12.97MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  19.92MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  13.33MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  104.2MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  20.45MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading   13.7MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  20.97MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  104.7MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting   21.5MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  14.06MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  22.02MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  105.3MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  14.42MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  22.54MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  14.78MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  105.8MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  23.07MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  15.14MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  23.59MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  106.4MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading   15.5MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading  15.86MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  24.12MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  106.9MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  16.22MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  24.64MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  16.57MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  25.69MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  107.4MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  16.93MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  26.21MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  17.29MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading    108MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  26.74MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  17.65MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  27.26MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  108.5MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  18.01MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading  18.37MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  109.1MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  27.79MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  18.72MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  28.84MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  19.08MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  30.41MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  109.6MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  19.44MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading   19.8MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  110.1MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  31.98MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  20.16MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  32.51MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  20.52MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  110.7MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  33.03MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  20.88MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading  21.24MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  111.2MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading   21.6MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  33.55MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  21.97MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  111.8MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting   34.6MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  22.33MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  35.65MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  22.69MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  112.3MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  36.18MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  23.05MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting   36.7MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  112.8MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  23.41MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading  23.77MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  113.4MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  24.13MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  37.22MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  24.49MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  113.9MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  38.27MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  24.85MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading  25.21MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  39.85MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  114.5MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  25.57MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  40.37MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  25.93MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading    115MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  41.42MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  115.5MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  26.65MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  42.47MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  27.01MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  116.1MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  43.52MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  27.73MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  116.6MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  44.56MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  28.09MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  45.09MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  28.45MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  117.2MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  46.14MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  28.81MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  117.7MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  46.66MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  29.53MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  118.2MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  47.19MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  29.89MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading  30.25MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  118.8MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  47.71MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading   30.6MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  119.3MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  30.96MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Downloading  31.32MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  119.9MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  48.23MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  31.68MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  120.4MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  32.04MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  120.9MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading   32.4MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading  121.5MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  48.76MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Downloading  33.48MB/34.79MB
+[3B[5A[2K
+513d77925604: Downloading    122MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading  33.84MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  49.28MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  122.6MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  49.81MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  123.1MB/191.9MB
+[5B[3A[2K
+0e421f66aff4: Downloading   34.2MB/34.79MB
+[3B[6A[2K
+ffd9397e94b7: Extracting  50.33MB/51.89MB
+[6B[6A[2K
+ffd9397e94b7: Extracting  50.86MB/51.89MB
+[6B[3A[2K
+0e421f66aff4: Verifying Checksum 
+[3B[3A[2K
+0e421f66aff4: Download complete 
+[3B[5A[2K
+513d77925604: Downloading  123.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  124.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  124.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  125.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  125.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  126.3MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  51.38MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading  126.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  127.4MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Extracting  51.89MB/51.89MB
+[6B[5A[2K
+513d77925604: Downloading    128MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  128.5MB/191.9MB
+[5B[6A[2K
+ffd9397e94b7: Pull complete 
+[6B[5A[2K
+513d77925604: Downloading  129.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  129.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  130.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  131.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  131.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  132.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  132.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  133.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  133.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  134.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    135MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  136.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  136.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  137.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  138.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  138.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  139.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  140.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  141.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  142.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  143.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  144.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  144.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  145.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  146.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  146.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  147.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  148.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    149MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  149.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  150.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  151.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  152.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  153.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  154.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  155.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  156.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  157.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  157.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  158.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  159.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  159.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  160.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  161.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    162MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  162.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    163MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  163.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  164.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  164.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  165.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  165.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  166.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  166.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  167.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  168.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    169MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  169.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    170MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  170.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  171.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  171.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  172.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  172.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  173.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  173.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  174.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  174.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    176MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  176.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  177.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  178.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  178.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  179.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  180.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  181.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  181.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  182.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  183.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  184.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  185.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  186.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  187.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  187.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  188.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  189.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  190.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading    191MB/191.9MB
+[5B[5A[2K
+513d77925604: Downloading  191.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Verifying Checksum 
+[5B[5A[2K
+513d77925604: Download complete 
+[5B[5A[2K
+513d77925604: Extracting  557.1kB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  1.671MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  3.899MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  5.571MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  7.799MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  10.03MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  10.58MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  11.14MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   11.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  12.26MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  12.81MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  13.37MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  13.93MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  14.48MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  15.04MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   15.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  16.15MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  16.71MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  17.27MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  17.83MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  20.05MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   23.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   27.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  28.41MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   31.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  34.54MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  38.44MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  40.11MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  42.34MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  45.12MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  46.24MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  47.35MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  49.58MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  52.36MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  55.71MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  57.38MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  57.93MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  59.05MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   59.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  60.72MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  61.28MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  61.83MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  62.95MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   63.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  64.62MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  65.18MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  66.29MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  66.85MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  68.52MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  70.19MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   71.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  72.42MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  74.09MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  75.76MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  76.87MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  78.54MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  79.66MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  80.77MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  81.89MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting     83MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  85.23MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  87.46MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  89.13MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  91.36MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  93.03MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  96.37MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting   98.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  101.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  103.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  105.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  108.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  111.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  113.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  114.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  115.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting    117MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  118.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  120.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting    122MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  123.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  125.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  126.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  128.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  129.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  131.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  133.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  135.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting    137MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  138.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  138.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  139.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  140.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting    142MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  142.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  143.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  146.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  148.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  151.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  152.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  154.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  156.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  158.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  164.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  166.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  168.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting    171MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  172.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  173.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  175.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  177.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  177.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  178.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  179.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting    181MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  182.2MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  183.3MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  183.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  184.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  186.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  187.7MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  188.8MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  189.4MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting    190MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  190.5MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  191.1MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  191.6MB/191.9MB
+[5B[5A[2K
+513d77925604: Extracting  191.9MB/191.9MB
+[5B[5A[2K
+513d77925604: Pull complete 
+[5B[4A[2K
+ae3b95bbaa61: Extracting  4.203kB/4.203kB
+[4B[4A[2K
+ae3b95bbaa61: Extracting  4.203kB/4.203kB
+[4B[4A[2K
+ae3b95bbaa61: Pull complete 
+[4B[3A[2K
+0e421f66aff4: Extracting  360.4kB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  2.884MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  5.407MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting   7.93MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  10.81MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  12.62MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  14.06MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  18.38MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  21.27MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  24.15MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  26.31MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  28.48MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  29.56MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  30.64MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  31.72MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  32.08MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  33.16MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  33.52MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  33.88MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  34.24MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting   34.6MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Extracting  34.79MB/34.79MB
+[3B[3A[2K
+0e421f66aff4: Pull complete 
+[3B[2A[2K
+ca266fd61921: Extracting  32.77kB/2.273MB
+[2B[2A[2K
+ca266fd61921: Extracting  1.114MB/2.273MB
+[2B[2A[2K
+ca266fd61921: Extracting  2.273MB/2.273MB
+[2B[2A[2K
+ca266fd61921: Pull complete 
+[2B[1A[2K
+ee7d78be1eb9: Extracting     450B/450B
+[1B[1A[2K
+ee7d78be1eb9: Extracting     450B/450B
+[1B[1A[2K
+ee7d78be1eb9: Pull complete 
+[1BDigest: sha256:f77a1aef2da8d83e45ec990f45df50f1a286c5fe8bbfb8c6e4246c6389705c0b
+Status: Downloaded newer image for node:16
+root@81c376950a86:/# docker container ls -a
+bash: docker: command not found
+root@81c376950a86:/# dock    k mkdir /usr/src/app
+root@81c376950a86:/# ls
+bin   dev  home  lib64	mnt  proc  run	 srv  tmp  var
+boot  etc  lib	 media	opt  root  sbin  sys  usr
+root@81c376950a86:/# cd s usr
+root@81c376950a86:/usr# cd src
+root@81c376950a86:/usr/src# cd app
+root@81c376950a86:/usr/src/app# ls
+root@81c376950a86:/usr/src/app# touch index.js
+root@81c376950a86:/usr/src/app# nano index.js 
+bash: nano: command not found
+root@81c376950a86:/usr/src/app# apt-get update
+
+0% [Working]
+            
+Get:1 http://deb.debian.org/debian buster InRelease [122 kB]
+
+0% [1 InRelease 5776 B/122 kB 5%]
+                                 
+0% [Working]
+            
+Get:2 http://deb.debian.org/debian-security buster/updates InRelease [34.8 kB]
+
+0% [2 InRelease 4332 B/34.8 kB 12%]
+                                   
+0% [Working]
+            
+Get:3 http://deb.debian.org/debian buster-updates InRelease [56.6 kB]
+
+0% [3 InRelease 7220 B/56.6 kB 13%]
+                                   
+0% [Working]
+0% [Working]
+            
+Get:4 http://deb.debian.org/debian buster/main amd64 Packages [7909 kB]
+
+0% [4 Packages 13.0 kB/7909 kB 0%]
+                                  
+0% [4 Packages 511 kB/7909 kB 6%]
+23% [4 Packages 866 kB/7909 kB 11%]
+27% [4 Packages 1317 kB/7909 kB 17%]
+30% [4 Packages 1643 kB/7909 kB 21%]
+35% [4 Packages 2120 kB/7909 kB 27%]
+37% [4 Packages 2384 kB/7909 kB 30%]
+41% [4 Packages 2810 kB/7909 kB 36%]
+43% [4 Packages 2963 kB/7909 kB 37%]
+46% [4 Packages 3288 kB/7909 kB 42%]
+46% [4 Packages 3370 kB/7909 kB 43%]^X
+47% [4 Packages 3487 kB/7909 kB 44%]^C
+root@81c376950a86:/usr/src/app# cd ../
+root@81c376950a86:/usr/src# cd ../
+root@81c376950a86:/usr# cd ../
+root@81c376950a86:/# apt-get update
+
+0% [Working]
+            
+Get:1 http://deb.debian.org/debian buster InRelease [122 kB]
+
+0% [Working]
+            
+Get:2 http://deb.debian.org/debian-security buster/updates InRelease [34.8 kB]
+
+0% [Working]
+            
+Get:3 http://deb.debian.org/debian buster-updates InRelease [56.6 kB]
+
+0% [3 InRelease 56.6 kB/56.6 kB 100%]
+                                     
+0% [Working]
+0% [Working]
+            
+Get:4 http://deb.debian.org/debian buster/main amd64 Packages [7909 kB]
+
+0% [4 Packages 3604 kB/7909 kB 46%]
+0% [4 Packages 3881 kB/7909 kB 49%]
+56% [4 Packages 4385 kB/7909 kB 55%]
+64% [4 Packages 5255 kB/7909 kB 66%]
+73% [4 Packages 6287 kB/7909 kB 79%]
+79% [4 Packages 6911 kB/7909 kB 87%]
+82% [4 Packages 7188 kB/7909 kB 91%]
+83% [4 Packages 7360 kB/7909 kB 93%]
+86% [4 Packages 7720 kB/7909 kB 98%]
+88% [4 Packages 7896 kB/7909 kB 100%]
+                                     
+88% [Working]
+88% [4 Packages store 0 B] [Waiting for headers]
+                                                
+Get:5 http://deb.debian.org/debian-security buster/updates/main amd64 Packages [550 kB]
+
+88% [4 Packages store 0 B] [5 Packages 0 B/550 kB 0%]
+91% [4 Packages store 0 B] [5 Packages 297 kB/550 kB 54%]
+                                                         
+93% [4 Packages store 0 B]
+                          
+Get:6 http://deb.debian.org/debian buster-updates/main amd64 Packages [8788 B]
+
+93% [4 Packages store 0 B] [6 Packages 2310 B/8788 B 26%]
+                                                         
+93% [4 Packages store 0 B]
+93% [4 Packages store 0 B]
+93% [4 Packages store 0 B]                                         1382 kB/s 0s
+96% [Working]                                                      1382 kB/s 0s
+96% [5 Packages store 0 B]                                         1382 kB/s 0s
+96% [5 Packages store 0 B]                                         1382 kB/s 0s
+98% [Working]                                                      1382 kB/s 0s
+98% [6 Packages store 0 B]                                         1382 kB/s 0s
+100% [Working]                                                     1382 kB/s 0s
+                                                                               
+Fetched 4864 kB in 7s (655 kB/s)
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+root@81c376950a86:/# apt-get -y install nano
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
+Suggested packages:
+  spell
+The following NEW packages will be installed:
+  nano
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 544 kB of archives.
+After this operation, 2269 kB of additional disk space will be used.
+
+0% [Working]
+            
+Get:1 http://deb.debian.org/debian buster/main amd64 nano amd64 3.2-3 [544 kB]
+
+0% [1 nano 0 B/544 kB 0%]
+                         
+100% [Working]
+              
+Fetched 544 kB in 0s (2410 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+Selecting previously unselected package nano.
+(Reading database ... 
+(Reading database ... 5%
+(Reading database ... 10%
+(Reading database ... 15%
+(Reading database ... 20%
+(Reading database ... 25%
+(Reading database ... 30%
+(Reading database ... 35%
+(Reading database ... 40%
+(Reading database ... 45%
+(Reading database ... 50%
+(Reading database ... 55%
+(Reading database ... 60%
+(Reading database ... 65%
+(Reading database ... 70%
+(Reading database ... 75%
+(Reading database ... 80%
+(Reading database ... 85%
+(Reading database ... 90%
+(Reading database ... 95%
+(Reading database ... 100%
+(Reading database ... 23993 files and directories currently installed.)
+Preparing to unpack .../archives/nano_3.2-3_amd64.deb ...
+Unpacking nano (3.2-3) ...
+Setting up nano (3.2-3) ...
+update-alternatives: using /bin/nano to provide /usr/bin/editor (editor) in auto mode
+update-alternatives: using /bin/nano to provide /usr/bin/pico (pico) in auto mode
+root@81c376950a86:/# nano /usr/src/app/index.js
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 3.2                 /usr/src/app/index.js                            [1;79H(B[m
+[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[22d[3d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[1;71H(B[0;7mModified(B[m
+[3dc[?12l[?25h[?25lo[?12l[?25h[?25ln[?12l[?25h[?25ls[?12l[?25h[?25lo[?12l[?25h[?25ll[?12l[?25h[?25le[?12l[?25h[?25l.[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25lg[?12l[?25h[?25l([?12l[?25h[?25l'[?12l[?25h[?25lH[?12l[?25h[?25le[?12l[?25h[?25ll[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l W[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25ll[?12l[?25h[?25ld[?12l[?25h[?25l[3;13H(B[0;1m[35m'Hello World'
+[22d[39m(B[m[K[3;26H[?12l[?25h[?25l)[?12l[?25h[?25l[23;14H       (B[0;7mM-D(B[m DOS Format      (B[0;7mM-A(B[m Append          (B[0;7mM-B(B[m Backup File[24;2H(B[0;7mC(B[m Cancel           (B[0;7mM-M(B[m Mac Format      (B[0;7mM-P(B[m Prepend         (B[0;7m^T(B[m To Files[K
+[22d(B[0;7mFile Name to Write: /usr/src/app/index.js                                       [22;1H(B[m[22;42H[?12l[?25h[?25l
+[K[1;79H[1;71H(B[0;7m        (B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[23;14H(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24;2H(B[0;7mX(B[m Exit      (B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[22d[3;27H[?12l[?25h[?25l
+[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t
+[?1l>root@81c376950a86:/# node /usr/src/app/index.js
+Hello World
+root@81c376950a86:/# exit
+exit
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccd FullStack_kurssi[1m/[0m[0m [?2004l
+
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro FullStack_kurssi % [K[?2004hccd part12-containers-applications[1m/[0m[K[K[?2004l
+
+[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro part12-containers-applications % [K[?2004hccd t
+
+[Jtodo-app/   typescript[A[0m[27m[24m
+[65Ccd t[Kodo-app[1m/[0m[0m [?2004l
+
+[J[1m[7m%[27m[1m[0m                                                                               
+ 
+]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app
+[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-app % [K[?2004h
