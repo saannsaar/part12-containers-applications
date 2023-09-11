@@ -1,0 +1,360 @@
+Script started on Mon Sep 11 09:44:42 2023
+cat: .zshrc: No such file or directory
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]? 
+compinit: initialization aborted
+complete:13: command not found: compdef
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccd FullStack_kurssi[1m/[0m[0m/part12-containers-applications[1m/[0m[K[0m/todo-app[1m/[0m[0m/todo-backend[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004h, mmongosh -u root           m  ddocker mongosh -u root -p example [K[K[?2004l
+unknown shorthand flag: 'u' in -u
+See 'docker --help'.
+
+Usage:  docker [OPTIONS] COMMAND
+
+A self-sufficient runtime for containers
+
+Common Commands:
+  run         Create and run a new container from an image
+  exec        Execute a command in a running container
+  ps          List containers
+  build       Build an image from a Dockerfile
+  pull        Download an image from a registry
+  push        Upload an image to a registry
+  images      List images
+  login       Log in to a registry
+  logout      Log out from a registry
+  search      Search Docker Hub for images
+  version     Show the Docker version information
+  info        Display system-wide information
+
+Management Commands:
+  builder     Manage builds
+  buildx*     Docker Buildx (Docker Inc., v0.11.2-desktop.1)
+  compose*    Docker Compose (Docker Inc., v2.20.2-desktop.1)
+  container   Manage containers
+  context     Manage contexts
+  dev*        Docker Dev Environments (Docker Inc., v0.1.0)
+  extension*  Manages Docker extensions (Docker Inc., v0.2.20)
+  image       Manage images
+  init*       Creates Docker-related starter files for your project (Docker Inc., v0.1.0-beta.6)
+  manifest    Manage Docker image manifests and manifest lists
+  network     Manage networks
+  plugin      Manage plugins
+  sbom*       View the packaged-based Software Bill Of Materials (SBOM) for an image (Anchore Inc., 0.6.0)
+  scan*       Docker Scan (Docker Inc., v0.26.0)
+  scout*      Command line tool for Docker Scout (Docker Inc., 0.20.0)
+  system      Manage Docker
+  trust       Manage trust on Docker images
+  volume      Manage volumes
+
+Swarm Commands:
+  swarm       Manage Swarm
+
+Commands:
+  attach      Attach local standard input, output, and error streams to a running container
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  events      Get real time events from the server
+  export      Export a container's filesystem as a tar archive
+  history     Show the history of an image
+  import      Import the contents from a tarball to create a filesystem image
+  inspect     Return low-level information on Docker objects
+  kill        Kill one or more running containers
+  load        Load an image from a tar archive or STDIN
+  logs        Fetch the logs of a container
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  rmi         Remove one or more images
+  save        Save one or more images to a tar archive (streamed to STDOUT by default)
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  wait        Block until one or more containers stop, then print their exit codes
+
+Global Options:
+      --config string      Location of client config files (default
+                           "/Users/sannisaarinen/.docker")
+  -c, --context string     Name of the context to use to connect to the
+                           daemon (overrides DOCKER_HOST env var and
+                           default context set with "docker context use")
+  -D, --debug              Enable debug mode
+  -H, --host list          Daemon socket to connect to
+  -l, --log-level string   Set the logging level ("debug", "info",
+                           "warn", "error", "fatal") (default "info")
+      --tls                Use TLS; implied by --tlsverify
+      --tlscacert string   Trust certs signed only by this CA (default
+                           "/Users/sannisaarinen/.docker/ca.pem")
+      --tlscert string     Path to TLS certificate file (default
+                           "/Users/sannisaarinen/.docker/cert.pem")
+      --tlskey string      Path to TLS key file (default
+                           "/Users/sannisaarinen/.docker/key.pem")
+      --tlsverify          Use TLS and verify the remote
+  -v, --version            Print version information and quit
+
+Run 'docker COMMAND --help' for more information on a command.
+
+For more help on how to use Docker, head to https://docs.docker.com/go/guides/
+
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hddocker container ls[?2004l
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS          PORTS                     NAMES
+c80348c40c6b   mongo     "docker-entrypoint.s…"   31 minutes ago   Up 31 minutes   0.0.0.0:3456->27017/tcp   todo-backend-mongo-1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hddocn ker tod   [7m docker start -i hopeful_c[7ml[7marke[27m[K[A[49C[27m [27md[27mo[27mc[27mk[27me[27mr[27m [27ms[27mt[27ma[27mr[27mt[27m [27m-[27mi[27m [27mh[27mo[27mp[27me[27mf[27mu[27ml[27m_[27mcl[27ma[27mr[27mk[K  l [K[A[79C[K[1B[K[A[79C                      start . -i do  todo-backend-mong [Koo-1[?2004l
+^Z^X^C{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"CONTROL",  "id":23377,   "ctx":"SignalHandler","msg":"Received signal","attr":{"signal":2,"error":"Interrupt"}}
+{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"CONTROL",  "id":23378,   "ctx":"SignalHandler","msg":"Signal was sent by kill(2)","attr":{"pid":0,"uid":0}}
+{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"CONTROL",  "id":23381,   "ctx":"SignalHandler","msg":"will terminate after current cmd ends"}
+{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"REPL",     "id":4784900, "ctx":"SignalHandler","msg":"Stepping down the ReplicationCoordinator for shutdown","attr":{"waitTimeMillis":15000}}
+{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"REPL",     "id":4794602, "ctx":"SignalHandler","msg":"Attempting to enter quiesce mode"}
+{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"-",        "id":6371601, "ctx":"SignalHandler","msg":"Shutting down the FLE Crud thread pool"}
+{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"COMMAND",  "id":4784901, "ctx":"SignalHandler","msg":"Shutting down the MirrorMaestro"}
+{"t":{"$date":"2023-09-11T06:48:23.861+00:00"},"s":"I",  "c":"SHARDING", "id":4784902, "ctx":"SignalHandler","msg":"Shutting down the WaitForMajorityService"}
+{"t":{"$date":"2023-09-11T06:48:23.862+00:00"},"s":"I",  "c":"CONTROL",  "id":4784903, "ctx":"SignalHandler","msg":"Shutting down the LogicalSessionCache"}
+{"t":{"$date":"2023-09-11T06:48:23.863+00:00"},"s":"I",  "c":"NETWORK",  "id":20562,   "ctx":"SignalHandler","msg":"Shutdown: going to close listening sockets"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"NETWORK",  "id":23017,   "ctx":"listener","msg":"removing socket file","attr":{"path":"/tmp/mongodb-27017.sock"}}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"NETWORK",  "id":4784905, "ctx":"SignalHandler","msg":"Shutting down the global connection pool"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"CONTROL",  "id":4784906, "ctx":"SignalHandler","msg":"Shutting down the FlowControlTicketholder"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"-",        "id":20520,   "ctx":"SignalHandler","msg":"Stopping further Flow Control ticket acquisitions."}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"CONTROL",  "id":4784908, "ctx":"SignalHandler","msg":"Shutting down the PeriodicThreadToAbortExpiredTransactions"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"REPL",     "id":4784909, "ctx":"SignalHandler","msg":"Shutting down the ReplicationCoordinator"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"SHARDING", "id":4784910, "ctx":"SignalHandler","msg":"Shutting down the ShardingInitializationMongoD"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"REPL",     "id":4784911, "ctx":"SignalHandler","msg":"Enqueuing the ReplicationStateTransitionLock for shutdown"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"-",        "id":4784912, "ctx":"SignalHandler","msg":"Killing all operations for shutdown"}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"-",        "id":4695300, "ctx":"SignalHandler","msg":"Interrupted all currently running operations","attr":{"opsKilled":4}}
+{"t":{"$date":"2023-09-11T06:48:23.864+00:00"},"s":"I",  "c":"TENANT_M", "id":5093807, "ctx":"SignalHandler","msg":"Shutting down all TenantMigrationAccessBlockers on global shutdown"}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"TenantMigrationBlockerNet","msg":"Killing all outstanding egress activity."}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"ASIO",     "id":6529201, "ctx":"SignalHandler","msg":"Network interface redundant shutdown","attr":{"state":"Stopped"}}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"SignalHandler","msg":"Killing all outstanding egress activity."}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"COMMAND",  "id":4784913, "ctx":"SignalHandler","msg":"Shutting down all open transactions"}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"REPL",     "id":4784914, "ctx":"SignalHandler","msg":"Acquiring the ReplicationStateTransitionLock for shutdown"}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"INDEX",    "id":4784915, "ctx":"SignalHandler","msg":"Shutting down the IndexBuildsCoordinator"}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"NETWORK",  "id":4784918, "ctx":"SignalHandler","msg":"Shutting down the ReplicaSetMonitor"}
+{"t":{"$date":"2023-09-11T06:48:23.865+00:00"},"s":"I",  "c":"SHARDING", "id":4784921, "ctx":"SignalHandler","msg":"Shutting down the MigrationUtilExecutor"}
+{"t":{"$date":"2023-09-11T06:48:23.866+00:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"MigrationUtil-TaskExecutor","msg":"Killing all outstanding egress activity."}
+{"t":{"$date":"2023-09-11T06:48:23.866+00:00"},"s":"I",  "c":"COMMAND",  "id":4784923, "ctx":"SignalHandler","msg":"Shutting down the ServiceEntryPoint"}
+{"t":{"$date":"2023-09-11T06:48:23.866+00:00"},"s":"I",  "c":"CONTROL",  "id":4784925, "ctx":"SignalHandler","msg":"Shutting down free monitoring"}
+{"t":{"$date":"2023-09-11T06:48:23.866+00:00"},"s":"I",  "c":"CONTROL",  "id":20609,   "ctx":"SignalHandler","msg":"Shutting down free monitoring"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"CONTROL",  "id":4784927, "ctx":"SignalHandler","msg":"Shutting down the HealthLog"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"CONTROL",  "id":4784928, "ctx":"SignalHandler","msg":"Shutting down the TTL monitor"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"INDEX",    "id":3684100, "ctx":"SignalHandler","msg":"Shutting down TTL collection monitor thread"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"INDEX",    "id":3684101, "ctx":"SignalHandler","msg":"Finished shutting down TTL collection monitor thread"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"CONTROL",  "id":6278511, "ctx":"SignalHandler","msg":"Shutting down the Change Stream Expired Pre-images Remover"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"CONTROL",  "id":4784929, "ctx":"SignalHandler","msg":"Acquiring the global lock for shutdown"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"CONTROL",  "id":4784930, "ctx":"SignalHandler","msg":"Shutting down the storage engine"}
+{"t":{"$date":"2023-09-11T06:48:23.867+00:00"},"s":"I",  "c":"STORAGE",  "id":22320,   "ctx":"SignalHandler","msg":"Shutting down journal flusher thread"}
+{"t":{"$date":"2023-09-11T06:48:23.868+00:00"},"s":"I",  "c":"STORAGE",  "id":22321,   "ctx":"SignalHandler","msg":"Finished shutting down journal flusher thread"}
+{"t":{"$date":"2023-09-11T06:48:23.868+00:00"},"s":"I",  "c":"STORAGE",  "id":22322,   "ctx":"SignalHandler","msg":"Shutting down checkpoint thread"}
+{"t":{"$date":"2023-09-11T06:48:23.868+00:00"},"s":"I",  "c":"STORAGE",  "id":22323,   "ctx":"SignalHandler","msg":"Finished shutting down checkpoint thread"}
+{"t":{"$date":"2023-09-11T06:48:23.868+00:00"},"s":"I",  "c":"STORAGE",  "id":20282,   "ctx":"SignalHandler","msg":"Deregistering all the collections"}
+{"t":{"$date":"2023-09-11T06:48:23.868+00:00"},"s":"I",  "c":"STORAGE",  "id":22261,   "ctx":"SignalHandler","msg":"Timestamp monitor shutting down"}
+{"t":{"$date":"2023-09-11T06:48:23.868+00:00"},"s":"I",  "c":"STORAGE",  "id":22317,   "ctx":"SignalHandler","msg":"WiredTigerKVEngine shutting down"}
+{"t":{"$date":"2023-09-11T06:48:23.868+00:00"},"s":"I",  "c":"STORAGE",  "id":22318,   "ctx":"SignalHandler","msg":"Shutting down session sweeper thread"}
+{"t":{"$date":"2023-09-11T06:48:23.869+00:00"},"s":"I",  "c":"STORAGE",  "id":22319,   "ctx":"SignalHandler","msg":"Finished shutting down session sweeper thread"}
+{"t":{"$date":"2023-09-11T06:48:23.869+00:00"},"s":"I",  "c":"STORAGE",  "id":4795902, "ctx":"SignalHandler","msg":"Closing WiredTiger","attr":{"closeConfig":"leak_memory=true,use_timestamp=false,"}}
+{"t":{"$date":"2023-09-11T06:48:23.879+00:00"},"s":"I",  "c":"NETWORK",  "id":22944,   "ctx":"conn11","msg":"Connection ended","attr":{"remote":"172.18.0.1:39446","uuid":{"uuid":{"$uuid":"6284d5d9-9018-4c3a-8b11-6b6c9f873360"}},"connectionId":11,"connectionCount":2}}
+{"t":{"$date":"2023-09-11T06:48:23.924+00:00"},"s":"I",  "c":"STORAGE",  "id":4795901, "ctx":"SignalHandler","msg":"WiredTiger closed","attr":{"durationMillis":55}}
+{"t":{"$date":"2023-09-11T06:48:23.924+00:00"},"s":"I",  "c":"STORAGE",  "id":22279,   "ctx":"SignalHandler","msg":"shutdown: removing fs lock..."}
+{"t":{"$date":"2023-09-11T06:48:23.924+00:00"},"s":"I",  "c":"-",        "id":4784931, "ctx":"SignalHandler","msg":"Dropping the scope cache for shutdown"}
+{"t":{"$date":"2023-09-11T06:48:23.925+00:00"},"s":"I",  "c":"FTDC",     "id":20626,   "ctx":"SignalHandler","msg":"Shutting down full-time diagnostic data capture"}
+{"t":{"$date":"2023-09-11T06:48:23.940+00:00"},"s":"I",  "c":"CONTROL",  "id":20565,   "ctx":"SignalHandler","msg":"Now exiting"}
+{"t":{"$date":"2023-09-11T06:48:23.942+00:00"},"s":"I",  "c":"CONTROL",  "id":23138,   "ctx":"SignalHandler","msg":"Shutting down","attr":{"exitCode":0}}
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hddocker exec -iy yodo    yo  tod          container ls[?2004l
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hd ddocker container ls[?2004l
+CONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS         PORTS                     NAMES
+c80348c40c6b   mongo     "docker-entrypoint.s…"   33 minutes ago   Up 5 seconds   0.0.0.0:3456->27017/tcp   todo-backend-mongo-1
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hddocker exec -it todo-backend-mong [Koo-1[?2004l
+"docker exec" requires at least 2 arguments.
+See 'docker exec --help'.
+
+Usage:  docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
+
+Execute a command in a running container
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hddocker exec -it todo-backend-mong [Koo-1 e bash[?2004l
+[?2004hroot@c80348c40c6b:/# d mongosh [7m-u root -p example[27m-u root -p example
+[?2004lbash: d: command not found
+[?2004hroot@c80348c40c6b:/# mongosh       docker mongosh -u root -p example
+[?2004lbash: docker: command not found
+[?2004hroot@c80348c40c6b:/# mongosh -u root -p example
+[?2004l]0;mongosh mongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000Current Mongosh Log ID:	64feb8a7bbd2e04675ccf4ba
+Connecting to:		[1m[32mmongodb://<credentials>@127.0.0.1:27017/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.10.6[0m
+Using MongoDB:		7.0.1
+[1m[33mUsing Mongosh[0m:		1.10.6
+
+For mongosh info see: [1mhttps://docs.mongodb.com/mongodb-shell/[0m
+
+
+To help improve our products, anonymous usage data is collected and sent to MongoDB periodically (https://www.mongodb.com/legal/privacy-policy).
+You can opt-out by running the [1mdisableTelemetry()[0m command.
+
+[1G[0J [1G[1m[33m------[0m
+   [1m[33mThe server generated these startup warnings when booting[0m
+   2023-09-11T06:48:45.038+00:00: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine. See http://dochub.mongodb.org/core/prodnotes-filesystem
+   2023-09-11T06:48:46.652+00:00: vm.max_map_count is too low
+[1m[33m------[0m
+
+[1G[0Jtest> [7Gadmin
+Uncaught [1m[31mReferenceError[0m: admin is not defined
+[1G[0Jtest> [7Gconfig
+Map(16) {
+  [32m'displayBatchSize'[39m => [33m20[39m,
+  [32m'maxTimeMS'[39m => [1mnull[22m,
+  [32m'enableTelemetry'[39m => [33mtrue[39m,
+  [32m'editor'[39m => [1mnull[22m,
+  [32m'snippetIndexSourceURLs'[39m => [32m'https://compass.mongodb.com/mongosh/snippets-index.bson.br'[39m,
+  [32m'snippetRegistryURL'[39m => [32m'https://registry.npmjs.org'[39m,
+  [32m'snippetAutoload'[39m => [33mtrue[39m,
+  [32m'inspectCompact'[39m => [33m3[39m,
+  [32m'inspectDepth'[39m => [33m6[39m,
+  [32m'historyLength'[39m => [33m1000[39m,
+  [32m'showStackTraces'[39m => [33mfalse[39m,
+  [32m'redactHistory'[39m => [32m'remove'[39m,
+  [32m'oidcRedirectURI'[39m => [90mundefined[39m,
+  [32m'oidcTrustedEndpoints'[39m => [90mundefined[39m,
+  [32m'browser'[39m => [90mundefined[39m,
+  [32m'updateURL'[39m => [32m'https://downloads.mongodb.com/compass/mongosh.json'[39m
+}
+[1G[0Jtest> [7Glocal
+Uncaught [1m[31mReferenceError[0m: local is not defined
+[1G[0Jtest> [7Gthe_database
+Uncaught [1m[31mReferenceError[0m: the_database is not defined
+[1G[0Jtest> [7Guse the_databae[1G[0Jtest> use the_databa[21Gse
+switched to db the_database
+[1G[0Jthe_database> [15Gtofo[1G[0Jthe_database> tof[18G[1G[0Jthe_database> to[17Gdos
+Uncaught [1m[31mReferenceError[0m: todos is not defined
+[1G[0Jthe_database> [15Gshow collections
+[1mtodos[0m
+[1G[0Jthe_database> [15Gdb-[1G[0Jthe_database> db[17G.todos.dinf[1G[0Jthe_database> db.todos.din[27G[1G[0Jthe_database> db.todos.di[26G[1G[0Jthe_database> db.todos.d[25G[1G[0Jthe_database> db.todos.[24Gfind({}([1G[0Jthe_database> db.todos.find({}[31G)
+[
+  {
+    _id: ObjectId("64feb0879d3f444d9d6271ae"),
+    text: [32m'Write code !'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("64feb0879d3f444d9d6271af"),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gdb.collection.insertOne(
+[1G[0J... [5G   <d[36mdo[39mdocumen[36mdocument[39m>,
+Uncaught:
+[1m[31mSyntaxError[0m: Support for the experimental syntax 'jsx' isn't currently enabled (2:4):
+
+[0m [90m 1 |[39m db[33m.[39mcollection[33m.[39minsertOne([0m
+[0m[31m[1m>[22m[39m[90m 2 |[39m    [33m<[39m[33mdocument[39m[33m>[39m[33m,[39m[0m
+[0m [90m   |[39m    [31m[1m^[22m[39m[0m
+[0m [90m 3 |[39m[0m
+
+Add @babel/preset-react (https://github.com/babel/babel/tree/main/packages/babel-preset-react) to the 'presets' section of your Babel config to enable transformation.
+If you want to leave it as-is, add @babel/plugin-syntax-jsx (https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-jsx) to the 'plugins' section to enable parsing.
+
+[1G[0Jthe_database> [15G   {
+[1G[0J... [5G      writeConcern: <document[36mdocument[39m>
+Uncaught:
+[1m[31mSyntaxError[0m: Support for the experimental syntax 'jsx' isn't currently enabled (2:21):
+
+[0m [90m 1 |[39m    {[0m
+[0m[31m[1m>[22m[39m[90m 2 |[39m       writeConcern[33m:[39m [33m<[39m[33mdocument[39m[33m>[39m[0m
+[0m [90m   |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 3 |[39m[0m
+
+Add @babel/preset-react (https://github.com/babel/babel/tree/main/packages/babel-preset-react) to the 'presets' section of your Babel config to enable transformation.
+If you want to leave it as-is, add @babel/plugin-syntax-jsx (https://github.com/babel/babel/tree/main/packages/babel-plugin-syntax-jsx) to the 'plugins' section to enable parsing.
+
+[1G[0Jthe_database> [15G   }
+Uncaught:
+[1m[31mSyntaxError[0m: Unexpected token (1:3)
+
+[0m[31m[1m>[22m[39m[90m 1 |[39m    }[0m
+[0m [90m   |[39m    [31m[1m^[22m[39m[0m
+[0m [90m 2 |[39m[0m
+
+[1G[0Jthe_database> [15G)
+Uncaught:
+[1m[31mSyntaxError[0m: Unexpected token (1:0)
+
+[0m[31m[1m>[22m[39m[90m 1 |[39m )[0m
+[0m [90m   |[39m [31m[1m^[22m[39m[0m
+[0m [90m 2 |[39m[0m
+
+[1G[0Jthe_database> [15G[1G[0Jthe_database> )[16G[1G[0Jthe_database>    }[19G[1G[0Jthe_database> { [33mwriteConcern[39m: <[36mdocument[39m>[41G[1G[0Jthe_database> db.collection.insertOne( <[36mdocument[39m>,[51G[1G[0Jthe_database> db.todos.find({})[32G[1G[0Jthe_database> show collections[31G[1G[0Jthe_database> todos[20G[1G[0Jthe_database> show collections[31G
+[1mtodos[0m
+[1G[0Jthe_database> [15Gdb.collection.insertOne(todos,{tx[1G[0Jthe_database> db.collection.insertOne(todos,{t[47Gwxt[1G[0Jthe_database> db.collection.insertOne(todos,{twx[49G[1G[0Jthe_database> db.collection.insertOne(todos,{tw[48G[1G[0Jthe_database> db.collection.insertOne(todos,{t[47Gext[33mtext[39m:[32m"[39m[32mT[39m[32me[39m[32ms[39m[32mt[39m[32mi[39m [32mu[39m[32mu[39m[32ms[39m[32mi[39m[32m"[39m, d[36mdo[39mdone: truw[1G[0Jthe_database> db.collection.insertOne(todos,{[33mtext[39m:[32m"Testi uusi"[39m, [33mdone[39m: tru[74G[33mtrue[39m})
+Uncaught [1m[31mReferenceError[0m: todos is not defined
+[1G[0Jthe_database> [15Gdb.todos
+the_database.todos
+[1G[0Jthe_database> [15Gdb-todo[1G[0Jthe_database> db-tod[21G[1G[0Jthe_database> db-to[20G[1G[0Jthe_database> db-t[19G[1G[0Jthe_database> db-[18G[1G[0Jthe_database> db[17G.todos.insterOne()[1D[1G[0Jthe_database> db.todos.insterOne[44m([49m)[34G[1G[0Jthe_database> db.todos.insterOne[44m([49m{)[35G[1G[0Jthe_database> db.todos.insterOne[44m([49m{})[36G[1D[1G[0Jthe_database> db.todos.insterOne([44m{[49m})[35G[1G[0Jthe_database> db.todos.insterOne([44m{[49mt})[36G[1G[0Jthe_database> db.todos.insterOne([44m{[49mte})[37G[1G[0Jthe_database> db.todos.insterOne([44m{[49mtex})[38G[1G[0Jthe_database> db.todos.insterOne([44m{[49mtext})[39G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:})[40G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"})[39m[41G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"T})[39m[42G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Te})[39m[43G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Tes})[39m[44G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Test})[39m[45G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi})[39m[46G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi })[39m[47G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi U})[39m[48G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uu})[39m[49G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uus})[39m[50G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi})[39m[51G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m})[52G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m,})[53G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, })[54G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, d})[55G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [36mdo[39m})[56G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, don})[57G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, done})[58G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m:})[59G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: })[60G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: t})[61G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: tr})[62G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: tru})[63G[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[64G[1C[1G[0Jthe_database> db.todos.insterOne[44m([49m{[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[65G[1C[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[66G
+Uncaught [1m[31mTypeError[0m: db.todos.insterOne is not a function
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[66G[1D[1G[0Jthe_database> db.todos.insterOne[44m([49m{[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[65G[1D[1G[0Jthe_database> db.todos.insterOne([44m{[49m[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[64G[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[63G[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[44m[32m"[49mTesti Uusi"[39m, [33mdone[39m: [33mtrue[39m})[51G[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[50G[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi[44m"[39m[49m, [33mdone[39m: [33mtrue[39m})[40G[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[39G[1D[1D[1D[1D[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m[44m}[49m)[34G[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m}[44m)[49m[33G[1D[1G[0Jthe_database> db.todos.insterOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[32G[1D[1D[1G[0Jthe_database> db.todos.insteOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[29G[1G[0Jthe_database> db.todos.instOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[28G[1G[0Jthe_database> db.todos.insOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[27G[1G[0Jthe_database> db.todos.inseOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[28G[1G[0Jthe_database> db.todos.inserOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[29G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m:[32m"Testi Uusi"[39m, [33mdone[39m: [33mtrue[39m})[30G[36C
+{
+  acknowledged: [33mtrue[39m,
+  insertedId: ObjectId("64feba2dbbd2e04675ccf4bb")
+}
+[1G[0Jthe_database> [15Gshow collections
+[1mtodos[0m
+[1G[0Jthe_database> [15Gdb-[1G[0Jthe_database> db[17G.todos.id[1G[0Jthe_database> db.todos.i[25G[1G[0Jthe_database> db.todos.[24Gdin[1G[0Jthe_database> db.todos.di[26G[1G[0Jthe_database> db.todos.d[25G[1G[0Jthe_database> db.todos.[24Gfind({})
+[
+  {
+    _id: ObjectId("64feb0879d3f444d9d6271ae"),
+    text: [32m'Write code !'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("64feb0879d3f444d9d6271af"),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId("64feba2dbbd2e04675ccf4bb"),
+    text: [32m'Testi Uusi'[39m,
+    done: [33mtrue[39m
+  }
+]
+[1G[0Jthe_database> [15Gdb.todos.insertOne({text[33mtext[39m:[32m"[39m[32mI[39m[32mn[39m[32mc[39m[32mr[39m[32me[39m[32ma[39m[32ms[39m[32me[39m [32mt[39m[32mh[39m[32me[39m [32mn[39m[32mu[39m[32mm[39m[32mb[39m[32me[39m[32mr[39m [32mo[39m[32mf[39m [32mt[39m[32mo[39m[32mo[39m[32ml[39m[32ms[39m [32mi[39m[32mn[39m [32mm[39m[32my[39m [32mt[39m[32mo[39m[32mo[39m[32ml[39m[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m:[32m"Increase the number of tools in my toolb[39m [1G[32me[39m[32ml[39m[32mt[39m[32m"[39m, d[36mdo[39mdone: fals[33mfalse[39m)[1A[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m:[32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m[18G})
+{
+  acknowledged: [33mtrue[39m,
+  insertedId: ObjectId("64feba59bbd2e04675ccf4bc")
+}
+[1G[0Jthe_database> [15G[1G[0Jthe_database> db.todos.insertOne({[33mtext[39m:[32m"Increase the number of tools in my toolbelt"[39m, [33mdone[39m: [33mfalse[39m})[20G[1A[1G[0Jthe_database> db.todos.find({})[32G
+[
+  {
+    _id: ObjectId("64feb0879d3f444d9d6271ae"),
+    text: [32m'Write code !'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("64feb0879d3f444d9d6271af"),
+    text: [32m'Learn about containers'[39m,
+    done: [33mfalse[39m
+  },
+  {
+    _id: ObjectId("64feba2dbbd2e04675ccf4bb"),
+    text: [32m'Testi Uusi'[39m,
+    done: [33mtrue[39m
+  },
+  {
+    _id: ObjectId("64feba59bbd2e04675ccf4bc"),
+    text: [32m'Increase the number of tools in my toolbelt'[39m,
+    done: [33mfalse[39m
+  }
+]
+[1G[0Jthe_database> [15Gexit
+[?2004hroot@c80348c40c6b:/# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...      10 completed.
+
+Script done on Mon Sep 11 09:57:56 2023
