@@ -16,7 +16,9 @@ services:
     image: redis:latest
     ports:
       - 6379:6379
-    command: redis-server --loglevel warning
+    command: redis-server --appendonly yes --loglevel warning
+    volumes:
+      - ./redis_data:/data
   
 volumes:
   mongo_data:
