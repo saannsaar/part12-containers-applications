@@ -4180,39 +4180,18 @@ Setting up nano (3.2-3) ...
 update-alternatives: using /bin/nano to provide /usr/bin/editor (editor) in auto mode
 update-alternatives: using /bin/nano to provide /usr/bin/pico (pico) in auto mode
 root@81c376950a86:/# nano /usr/src/app/index.js
-[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 3.2                 /usr/src/app/index.js                            [1;79H(B[m
-[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
-[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
-[22d[3d[39;49m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[1;71H(B[0;7mModified(B[m
-[3dc[?12l[?25h[?25lo[?12l[?25h[?25ln[?12l[?25h[?25ls[?12l[?25h[?25lo[?12l[?25h[?25ll[?12l[?25h[?25le[?12l[?25h[?25l.[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25lg[?12l[?25h[?25l([?12l[?25h[?25l'[?12l[?25h[?25lH[?12l[?25h[?25le[?12l[?25h[?25ll[?12l[?25h[?25ll[?12l[?25h[?25lo[?12l[?25h[?25l[42m [49m(B[m[?12l[?25h[?25l W[?12l[?25h[?25lo[?12l[?25h[?25lr[?12l[?25h[?25ll[?12l[?25h[?25ld[?12l[?25h[?25l[3;13H(B[0;1m[35m'Hello World'
-[22d[39m(B[m[K[3;26H[?12l[?25h[?25l)[?12l[?25h[?25l[23;14H       (B[0;7mM-D(B[m DOS Format      (B[0;7mM-A(B[m Append          (B[0;7mM-B(B[m Backup File[24;2H(B[0;7mC(B[m Cancel           (B[0;7mM-M(B[m Mac Format      (B[0;7mM-P(B[m Prepend         (B[0;7m^T(B[m To Files[K
-[22d(B[0;7mFile Name to Write: /usr/src/app/index.js                                       [22;1H(B[m[22;42H[?12l[?25h[?25l
-[K[1;79H[1;71H(B[0;7m        (B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[23;14H(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos[24;2H(B[0;7mX(B[m Exit      (B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
-[22d[3;27H[?12l[?25h[?25l
-[22d[J[24;80H[?12l[?25h[24;1H[?1049l[23;0;0t
-[?1l>root@81c376950a86:/# node /usr/src/app/index.js
-Hello World
-root@81c376950a86:/# exit
-exit
-[1m[7m%[27m[1m[0m                                                                               
- 
-]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen
-[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro ~ % [K[?2004hccd FullStack_kurssi[1m/[0m[0m [?2004l
-
-[1m[7m%[27m[1m[0m                                                                               
- 
-]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi
-[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro FullStack_kurssi % [K[?2004hccd part12-containers-applications[1m/[0m[K[K[?2004l
-
-[1m[7m%[27m[1m[0m                                                                               
- 
-]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications
-[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro part12-containers-applications % [K[?2004hccd t
-
-[Jtodo-app/   typescript[A[0m[27m[24m
-[65Ccd t[Kodo-app[1m/[0m[0m [?2004l
-
-[J[1m[7m%[27m[1m[0m                                                                               
- 
-]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app
-[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-app % [K[?2004h
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ](B[m[22;39H(lls[?2004l
+todo-backend	todo-frontend
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-app % [K[?2004ht ccd todo_ -v backend[1m/[0m[0m [?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hlls[?2004l
+README.md		mongo			redis
+app.js			package-lock.json	routes
+bin			package.json		util
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004httouch Dockerfile[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hlls[?2004l
+Dockerfile		mongo			routes
+README.md		package-lock.json	util
+app.js			package.json
+bin			redis
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Sanni-MacBook-Pro.local/Users/sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/todo-backend[0m[27m[24m[Jsannisaarinen@Sanni-MacBook-Pro todo-backend % [K[?2004hnnano Dockerfile[?2004l
+[?1049h[1;24r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6              File: Dockerfile                                  [22;33H[ Read 0 lines ][23d^G(B[m Get Help  (B[0;7m^O(B[m WriteOut  (B[0;7m^R(B[m Read File (B[0;7m^Y(B[m Prev Page (B[0;7m^K(B[m Cut Text  (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^J(B[m Justify   (B[0;7m^W(B[m Where Is  (B[0;7m^V(B[m Next Page (B[0;7m^U(B[m UnCut Text(B[0;7m^T(B[m To Spell[3d[1;71H(B[0;7mModified[3d(B[mFROM node:16[5dWORKDIR /usr/src/app[7dCOPY . .[22d[K[9dCMD DEBUG=playground:* npm start[A[7;9H[A[5;21H           Full    sa  sannisaarinen/F Fullstack_kurssi/                 FullStack_kurssi/part12-containers-applications/todo-ap$do-app[K/WORKDIR /sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/[3;13H[5d$[72P[9GWORKDIR /sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/[6;1H[7;9H[A[A$[72P[9GWORKDIR /sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/[4;1H[3;13H[5d$[72P[9GWORKDIR /sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app/[6;1H[7;9H[8d[10d[9;33H[A[7;9H[5d$[72P[9Gtodo-backendWORKDIR /sannisaarinen/FullStack_kurssi/part12-containers-applications/todo-app$[6;1H[7;9H[8d[9;33H[22d(B[0;7mFile Name to Write: Dockerfile                                                  [23;14H(B[m       (B[0;7m^T(B[m To Files         (B[0;7mM-M(B[m Mac Format      (B[0;7mM-P(B[m Prepend[K[24;2H(B[0;7mC(B[m Cancel           (B[0;7mM-D(B[m DOS Format      (B[0;7mM-A(B[m Append          (B[0;7mM-B(B[m Backup File[K[22;31H[1;71H[39;49m(B[0;7m        [22;31H(B[m[1K (B[0;7m[ Wrote 7 lines ](B[m[K[23;14H(B[0;7m^O(B[m WriteOut  (B[0;7m^R(B[m Read File (B[0;7m^Y(B[m Prev Page (B[0;7m^K(B[m Cut Text  (B[0;7m^C(B[m Cur Pos[24;2H(B[0;7mX(B[m Exit      (B[0;7m^J(B[m Justify   (B[0;7m^W(B[m Where Is  (B[0;7m^V(B[m Next Page (B[0;7m^U(B[m UnCut Text(B[0;7m^T(B[m To Spell[9;33H
