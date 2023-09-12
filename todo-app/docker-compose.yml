@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  app:
+    image: todo-frontend
+    env_file:
+      - .env
+    build:
+      context: ./todo-frontend
+      dockerfile: Dockerfile
+    container_name: todo-frontend
+    depends_on:
+      - server
+  server:
+    image: todo-backend
+    build:
+      context: ./todo-backend
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    environment:
+      MONGO_URL: ${MONGO_URL}
+      REDIS_URL: ${REDIS_URL}
+    container_name: todo-backend
+    depends_on:
+      - mongo
+      - redis
+  mongo:
+    image: mongo:latest
+    env_file:
+      - .env
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_ROOT_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_ROOT_DATABASE}
+    volumes:
+      - ./todo-backend/mongo/mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js
+      - ./todo-backend/mongo_data:/data/db
+    container_name: todo-app-mongo
+  redis:
+    image: redis:latest
+    command: redis-server --appendonly yes --loglevel warning
+    volumes:
+      - ./todo-backend/redis_data:/data
+    container_name: todo-app-redis
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:
+      - app # frontend container has to start 
+      - server # backend container has to start
+
+volumes:
+  mongo_data:
+  redis_data:
