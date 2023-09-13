@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  app:
+    image: pat-frontend
+    build:
+      context: ./front
+      dockerfile: Dockerfile
+    container_name: pat-frontend
+    depends_on:
+      - server
+
+  server:
+    image: pat-backend
+    build:
+      context: ./back
+      dockerfile: Dockerfile
+    container_name: pat-backend
+
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:
+      - app
+      - server

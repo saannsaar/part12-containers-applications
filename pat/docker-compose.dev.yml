@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  app:
+    image: dev-pat-frontend
+    build:
+      context: ./front
+      dockerfile: dev.Dockerfile
+    volumes:
+      - ./front:/usr/src/app
+    container_name: dev-pat-frontend
+    depends_on:
+      - server
+  debug-helper:
+    image: busybox
+  server:
+    image: dev-pat-backend
+    build:
+      context: ./back
+      dockerfile: dev.Dockerfile
+    volumes:
+      - ./back:/usr/src/app
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.dev.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:
+      - app
+      - server
